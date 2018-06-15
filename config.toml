@@ -1,0 +1,40 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "ScholCommsProd"
+theme = "hugo-bootstrap"
+sectionPagesMenu = "main"
+publishDir = "docs"
+[Site]
+  Home = "mulvany.net"
+
+[menu]
+  [[menu.main]]
+      identifier = "categories"
+      name = "Categories"
+      title = "Categories"
+      url = "/categories"
+      weight = -110
+  [[menu.main]]
+      identifier = "rss"
+      name = "RSS"
+      title = "rss"
+      url = "/post/index.xml"
+      weight = -110
+  [[menu.main]]
+      identifier = "about"
+      name = "About"
+      title = "About"
+      url = "/about/"
+      weight = -110
+  [[menu.main]]
+      identifier = "submit"
+      name = "Submit"
+      title = "Submit"
+      url = "/submit/"
+      weight = -110
+  [[menu.main]]
+      identifier = "top-posts"
+      name = "Top Posts"
+      title = "Top Posts"
+      url = "/top-posts/"
+      weight = -110
