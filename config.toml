@@ -4,8 +4,9 @@ title = "ScholCommsProd"
 theme = "hugo-bootstrap"
 sectionPagesMenu = "main"
 publishDir = "docs"
+googleAnalytics = "UA-120951226-1"
 [Site]
-  Home = "mulvany.net"
+  Home = "scholarly-comms-product-blog.com"
 
 [menu]
   [[menu.main]]
