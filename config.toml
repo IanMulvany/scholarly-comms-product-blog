@@ -1,4 +1,4 @@
-baseURL = "http://scholarly-comms-product-blog.com"
+baseURL = "http://scholarly-comms-product-blog.com/"
 languageCode = "en-us"
 title = "ScholCommsProd"
 theme = "hugo-bootstrap"
