@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/2015/05/17/peer-review-idea/</loc>
+    <loc>http://scholarly-comms-product-blog.com/2015/05/17/peer-review-idea/</loc>
     <lastmod>2015-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://scholarly-comms-product-blog.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
-    <lastmod>2015-05-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/publishing/</loc>
+    <loc>http://scholarly-comms-product-blog.com/post/</loc>
     <lastmod>2015-05-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://scholarly-comms-product-blog.com/categories/publishing/</loc>
     <lastmod>2015-05-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://scholarly-comms-product-blog.com/</loc>
+    <lastmod>2015-05-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/test/</loc>
+    <loc>http://scholarly-comms-product-blog.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/test/</loc>
     <lastmod>2015-05-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
