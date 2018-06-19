@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science on ScholCommsProd</title>
+    <link>http://scholarly-comms-product-blog.com/categories/science/</link>
+    <description>Recent content in Science on ScholCommsProd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://scholarly-comms-product-blog.com/categories/science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WriteLateX/Overleaf launch event at the British Library</title>
+      <link>http://scholarly-comms-product-blog.com/2014/01/18/writelatex-overleaf-launch/</link>
+      <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2014/01/18/writelatex-overleaf-launch/</guid>
+      <description>Last Thursday I attended the launch event for OverLeaf. The event was composed of a set of very short talks, followed by a good chance to chat to people. It was a pretty nice evening.
+Dr Bibiana Campos Seijo - MRSC - magazines publisher and editor of chemistry world. Science is changing, publising is changing, a lot of this is being driven by technology. There is information overlaod. Publishers need to try to provide solutions to these issues.</description>
+    </item>
+    
+    <item>
+      <title>advice on publishing research online</title>
+      <link>http://scholarly-comms-product-blog.com/2014/01/08/advice-on-publishing-online/</link>
+      <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2014/01/08/advice-on-publishing-online/</guid>
+      <description>I have posted this post as a comment on the thread over at software carpentry in answer to the question What do we teach about writing/publishing papers in a webby world?
+I ended up writing a bit more than I expected, so here are the main peices of advice:
+tl;dr:
+- use a reference management tool
+- try to find the fastest venue to publish in
+- try to publish in an OA journal</description>
+    </item>
+    
+    <item>
+      <title>EC consultation on Open Data - a report.</title>
+      <link>http://scholarly-comms-product-blog.com/2013/07/02/ec-open-data-consultation-report/</link>
+      <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2013/07/02/ec-open-data-consultation-report/</guid>
+      <description>This is a report on todays consultation on open data that was help by the EC. The notes are long, so I have put my conclusions and general comments at the start.
+General comments There was not much disagreement throughout the day. There were repeated calls for the need to incentivise researchers to engage in data sharing, but not too many concrete proposals on how to do this. It does seem from my perspective that libraries could do an amazing job here, but that will depend on to which extent these libraries have deep technical expertise.</description>
+    </item>
+    
+    <item>
+      <title>EC consultation on Open Data - my presentation.</title>
+      <link>http://scholarly-comms-product-blog.com/2013/07/02/ec-open-data-consultation-our-view/</link>
+      <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2013/07/02/ec-open-data-consultation-our-view/</guid>
+      <description>The following is the written representation that I made to the EC hearing on Open Data on behalf of Co-Action publishers, Copernicus Publications, eLife, F1000 Research, FigShare, Frontiers, Open Books Publishers, PeerJ, the Public Library of Science, Ubiquity Press and Bloomsbury Qatar Foundation Journals (QScience). I had a five minute slot to present, and the key recommendations at the end of this written response formed the basis of that presentation.</description>
+    </item>
+    
+    <item>
+      <title>Megajournals</title>
+      <link>http://scholarly-comms-product-blog.com/2011/10/03/megajournals/</link>
+      <pubDate>Mon, 03 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2011/10/03/megajournals/</guid>
+      <description>The idea of megajournals had not really formalised in my head before, but at the COASP meeting the talk was all about &amp;ldquo;Megajournals&amp;rdquo;. [PLoSOne][plosone] is the archetype for this kind of journal, and it had not really struck me before as a huge revolution in the publishing industry, but after listening to a couple of days worth of talks on the topic I&amp;rsquo;m convincible.
+Megajournals are so called because they are structured to be able to publish many more articles than has been the normal practice with traditional journals.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,30 +3,683 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/2018/06/19/blockchain_in_stem_-_part_1/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2018/06/07/digital_radar_-_stm_landscape/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2018/06/07/strategy_in_a_lean_enterprise_-_lean_value_tree./</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/about/</loc>
+    <lastmod>2018-01-01T17:40:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2017/11/09/the_robots_are_coming_the_promise_and_perils_of_ai_-_questions/</loc>
+    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2017/03/16/future-pub-10/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2017/03/15/three_posts_product_dev/</loc>
+    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2017/01/10/plos-ceo/</loc>
+    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2017/01/10/crossref-reverse-lookups/</loc>
+    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2016/12/13/when-we-talk-about-preprints/</loc>
+    <lastmod>2016-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2016/06/19/ssrn-elsevier/</loc>
+    <lastmod>2016-06-19T22:53:47+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/2015/05/17/peer-review-idea/</loc>
     <lastmod>2015-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/2015/01/28/futurepub4-lens-next/</loc>
+    <lastmod>2015-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2014/09/24/erc-workshop-thought/</loc>
+    <lastmod>2014-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2014/09/21/erc-workshop-day1/</loc>
+    <lastmod>2014-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2014/09/21/erc-workshop-day2/</loc>
+    <lastmod>2014-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2014/05/30/future-pub2/</loc>
+    <lastmod>2014-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2014/01/31/threaded-publications-discussion/</loc>
+    <lastmod>2014-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2014/01/18/writelatex-overleaf-launch/</loc>
+    <lastmod>2014-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2014/01/08/advice-on-publishing-online/</loc>
+    <lastmod>2014-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2013/12/04/stm-innovations-2013/</loc>
+    <lastmod>2013-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2013/12/03/stm-brainstorming-meeting/</loc>
+    <lastmod>2013-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2013/10/17/plos-alm-13-day2/</loc>
+    <lastmod>2013-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2013/10/16/plos-aml-13-day1/</loc>
+    <lastmod>2013-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2013/09/30/cug-agile-ux/</loc>
+    <lastmod>2013-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2013/07/02/ec-open-data-consultation-report/</loc>
+    <lastmod>2013-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2013/07/02/ec-open-data-consultation-our-view/</loc>
+    <lastmod>2013-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2013/04/27/tf-survey/</loc>
+    <lastmod>2013-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2013/01/30/euan-birney-data-publishing-talk-plos-elife/</loc>
+    <lastmod>2013-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2012/10/02/icoa-going-for-gold/</loc>
+    <lastmod>2012-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2012/08/22/the-slow-web/</loc>
+    <lastmod>2012-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2012/07/12/the-cost-of-production/</loc>
+    <lastmod>2012-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2012/06/18/some-thought-on-peerreview-and-altmetrics/</loc>
+    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2012/06/17/proposal-on-peer-review/</loc>
+    <lastmod>2012-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2011/10/06/hindawi-reviewing/</loc>
+    <lastmod>2011-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2011/10/03/megajournals/</loc>
+    <lastmod>2011-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2011/10/03/coasp-impressions/</loc>
+    <lastmod>2011-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2011/01/04/arxiv.org-open-peer-review-proposal/</loc>
+    <lastmod>2011-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/categories/</loc>
+    <lastmod>2015-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/agile/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/ai/</loc>
+    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/alm/</loc>
+    <lastmod>2013-10-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/altmetrics/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/arxiv/</loc>
+    <lastmod>2011-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/authoring/</loc>
+    <lastmod>2014-01-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/blockchain/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/</loc>
+    <lastmod>2015-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/cc-by/</loc>
+    <lastmod>2013-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/charleston/</loc>
+    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/citations/</loc>
+    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/coasp/</loc>
+    <lastmod>2011-10-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/conference/</loc>
+    <lastmod>2013-10-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/consolidation/</loc>
+    <lastmod>2016-06-19T22:53:47+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/cool/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/crossref/</loc>
+    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/cug/</loc>
+    <lastmod>2013-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/data/</loc>
+    <lastmod>2014-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/data-management/</loc>
+    <lastmod>2014-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/design/</loc>
+    <lastmod>2013-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/development/</loc>
+    <lastmod>2013-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/discovery/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/dog-in-manger/</loc>
+    <lastmod>2013-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/doi/</loc>
+    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/dystopia/</loc>
+    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/elife/</loc>
+    <lastmod>2015-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/elife-lens/</loc>
+    <lastmod>2015-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/elsevier/</loc>
+    <lastmod>2016-06-19T22:53:47+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/encode/</loc>
+    <lastmod>2013-01-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/erc/</loc>
+    <lastmod>2014-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/eu/</loc>
+    <lastmod>2014-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/filter-failure/</loc>
+    <lastmod>2012-08-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/future/</loc>
+    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/futurepub/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/futurepub10/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/gold/</loc>
+    <lastmod>2012-10-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/green/</loc>
+    <lastmod>2012-10-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/horizon-2020/</loc>
+    <lastmod>2013-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/hype-machine/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/industry/</loc>
+    <lastmod>2013-12-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/innovation/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/interesting/</loc>
+    <lastmod>2013-12-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/latex/</loc>
+    <lastmod>2014-01-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/leadership/</loc>
+    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/lean/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/lean-value-tree/</loc>
+    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/lens/</loc>
+    <lastmod>2015-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/libraries/</loc>
+    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/lvt/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/machine-learning/</loc>
+    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/management/</loc>
+    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/meetup/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/megajournals/</loc>
+    <lastmod>2011-10-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/music/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/nature/</loc>
+    <lastmod>2011-10-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/networks/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/oa/</loc>
+    <lastmod>2013-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/open-access/</loc>
+    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/open-data/</loc>
+    <lastmod>2013-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/open-science/</loc>
+    <lastmod>2015-05-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/openaccess/</loc>
+    <lastmod>2012-07-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/peer-review/</loc>
+    <lastmod>2015-05-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/plos/</loc>
+    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/post/</loc>
-    <lastmod>2015-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/preprints/</loc>
+    <lastmod>2016-12-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/product-development/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/product-management/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/programming/</loc>
+    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/publihsing/</loc>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/publishing/</loc>
-    <lastmod>2015-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/recommendations/</loc>
+    <lastmod>2013-10-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/sage/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/</loc>
-    <lastmod>2015-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/scholarly-comms/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/science/</loc>
+    <lastmod>2014-01-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/slowness/</loc>
+    <lastmod>2012-08-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/software-carpentry/</loc>
+    <lastmod>2014-01-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/ssrn/</loc>
+    <lastmod>2016-06-19T22:53:47+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/stm/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/strategy/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,8 +689,68 @@
   </url>
   
   <url>
-    <loc>http://scholarly-comms-product-blog.com/categories/test/</loc>
+    <loc>http://scholarly-comms-product-blog.com/categories/technology/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/threaded-publications/</loc>
+    <lastmod>2014-01-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/threads/</loc>
+    <lastmod>2013-01-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/tools/</loc>
+    <lastmod>2014-01-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/transparency/</loc>
     <lastmod>2015-05-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/trends/</loc>
+    <lastmod>2013-12-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/ux/</loc>
+    <lastmod>2013-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/visualisation/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/web/</loc>
+    <lastmod>2012-08-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/writelatex/</loc>
+    <lastmod>2014-01-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/yenow/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

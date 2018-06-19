@@ -27,15 +27,3 @@ googleAnalytics = "UA-120951226-1"
       title = "About"
       url = "/about/"
       weight = -110
-  [[menu.main]]
-      identifier = "submit"
-      name = "Submit"
-      title = "Submit"
-      url = "/submit/"
-      weight = -110
-  [[menu.main]]
-      identifier = "top-posts"
-      name = "Top Posts"
-      title = "Top Posts"
-      url = "/top-posts/"
-      weight = -110
