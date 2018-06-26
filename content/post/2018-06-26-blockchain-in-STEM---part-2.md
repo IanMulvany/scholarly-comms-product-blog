@@ -16,7 +16,7 @@ In this post I’m going to look at potential use cases for blockchain in STEM a
 # Scholarly communications use cases. 
 When thinking about any use cases in STEM I think the questions we need to answer are:
 
-1. What are the kinds of records that we want to place on a pubic log, and if those records deal with “transactions” what kind of transactions make sense within the context of scholarly comms?   
+1. What are the kinds of records that we want to place on a public log, and if those records deal with “transactions” what kind of transactions make sense within the context of scholarly comms?   
 2. Who might take part in the verification network for a given transaction type?     
 3. How are those participants going to see value in the tokens of exchange sot that they are incentivised to participate?  
 4. Crucially, for any given transaction type, how is a blockchain based system better than the system we already have?  
