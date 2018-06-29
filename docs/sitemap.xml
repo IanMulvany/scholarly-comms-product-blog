@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/2018/06/29/distill_is_dedicated_to_making_machine_learning_clear_and_dynamic/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/2018/06/29/jobs_to_be_done_a_case_study_in_thenhs__digital_transformation_blog/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/2018/06/26/blockchain_in_stem_-_part_2/</loc>
     <lastmod>2018-06-26T00:00:00+00:00</lastmod>
   </url>
@@ -237,7 +247,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/ai/</loc>
-    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -368,6 +378,12 @@
   </url>
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/design-thinking/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/categories/development/</loc>
     <lastmod>2013-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -446,6 +462,12 @@
   </url>
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/future-of-publishing/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/categories/futurepub/</loc>
     <lastmod>2017-03-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -506,6 +528,12 @@
   </url>
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/jobs-to-be-done/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/categories/latex/</loc>
     <lastmod>2014-01-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -526,6 +554,12 @@
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/lean-value-tree/</loc>
     <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/learning/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -596,6 +630,12 @@
   </url>
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/nhs/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/categories/oa/</loc>
     <lastmod>2013-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -639,7 +679,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/post/</loc>
-    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -651,7 +691,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/product-development/</loc>
-    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -686,6 +726,12 @@
   </url>
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/research/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/categories/sage/</loc>
     <lastmod>2018-04-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -693,7 +739,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/</loc>
-    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
