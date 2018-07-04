@@ -3,7 +3,7 @@ title: blockchain in STEM - part 3
 url: 2018/07/04/blockchain_in_STEM_-_part_3__/
 date: 2018-07-04T00:00:00Z
 categories:
-- blockchain#
+- blockchain 
 - hype-machine
 - stem
 - science
