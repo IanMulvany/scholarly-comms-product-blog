@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/2018/10/19/belmont_forum_round_table_-_data_accessibility_statements_/</loc>
+    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/2018/10/18/one_two_four_all_-_a_technique_for_getting_insights_from_groups/</loc>
     <lastmod>2018-10-18T00:00:00+00:00</lastmod>
   </url>
@@ -302,6 +307,12 @@
   </url>
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/belmont/</loc>
+    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/categories/blockchain/</loc>
     <lastmod>2018-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -387,7 +398,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/data/</loc>
-    <lastmod>2014-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -478,6 +489,12 @@
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/filter-failure/</loc>
     <lastmod>2012-08-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/funders/</loc>
+    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -687,7 +704,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/open-science/</loc>
-    <lastmod>2015-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -711,7 +728,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/post/</loc>
-    <lastmod>2018-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -759,7 +776,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/research/</loc>
-    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -771,7 +788,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/</loc>
-    <lastmod>2018-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
