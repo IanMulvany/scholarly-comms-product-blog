@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/2018/10/24/rave_publishing_technology_conference_2018_/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/2018/10/19/belmont_forum_round_table_-_data_accessibility_statements_/</loc>
     <lastmod>2018-10-19T00:00:00+00:00</lastmod>
   </url>
@@ -314,7 +319,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/blockchain/</loc>
-    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -445,6 +450,12 @@
   </url>
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/drafttoblog/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/categories/dystopia/</loc>
     <lastmod>2017-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -567,6 +578,12 @@
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/innovation/</loc>
     <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/innovations/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -728,7 +745,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/post/</loc>
-    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -764,7 +781,13 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/publishing/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/rave/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -788,7 +811,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/</loc>
-    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -859,7 +882,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/technology/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ScholCommsProd</title>
+    <title>Categories on ScholCommsProd</title>
     <link>http://scholarly-comms-product-blog.com/categories/</link>
-    <description>Recent content on ScholCommsProd</description>
+    <description>Recent content in Categories on ScholCommsProd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Jan 2015 00:00:00 +0000</lastBuildDate>
@@ -12,33 +12,1020 @@
     
     
     <item>
-      <title>FuturePub Jan 2015 - Lens Next</title>
-      <link>http://scholarly-comms-product-blog.com/2015/01/28/futurepub4-lens-next/</link>
+      <title></title>
+      <link>http://scholarly-comms-product-blog.com/categories/</link>
       <pubDate>Wed, 28 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://scholarly-comms-product-blog.com/2015/01/28/futurepub4-lens-next/</guid>
-      <description>On 2015-01-27 I gave one of the short talks at the FuturePub event. My slidedeck is here. I wanted to give a quick update on where the Lens viewer for research articles is heading. Lens is a great platform for experimentation, and we have been iterating on some ideas towards the end of 2014 that have now made it into the 2.0 release.
-The main update is that Lens can now be configured to accept information from a 3rd party source and display that information in the right hand resources pane.</description>
+      <guid>http://scholarly-comms-product-blog.com/categories/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>FuturePub Jan 2015 - Lens Next</title>
-      <link>http://scholarly-comms-product-blog.com/2015/01/28/futurepub4-lens-next/</link>
-      <pubDate>Wed, 28 Jan 2015 00:00:00 +0000</pubDate>
+      <title>Academia</title>
+      <link>http://scholarly-comms-product-blog.com/categories/academia/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://scholarly-comms-product-blog.com/2015/01/28/futurepub4-lens-next/</guid>
-      <description>On 2015-01-27 I gave one of the short talks at the FuturePub event. My slidedeck is here. I wanted to give a quick update on where the Lens viewer for research articles is heading. Lens is a great platform for experimentation, and we have been iterating on some ideas towards the end of 2014 that have now made it into the 2.0 release.
-The main update is that Lens can now be configured to accept information from a 3rd party source and display that information in the right hand resources pane.</description>
+      <guid>http://scholarly-comms-product-blog.com/categories/academia/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>FuturePub - future of publishing event, hosted by NESTA and WriteLaTeX</title>
-      <link>http://scholarly-comms-product-blog.com/2014/05/30/future-pub2/</link>
-      <pubDate>Fri, 30 May 2014 00:00:00 +0000</pubDate>
+      <title>Agile</title>
+      <link>http://scholarly-comms-product-blog.com/categories/agile/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://scholarly-comms-product-blog.com/2014/05/30/future-pub2/</guid>
-      <description>This is the second #futurepub event that I&amp;rsquo;ve been to. I also attended the last one
-The event was hosted by Nesta. Nesta have just launched the &amp;ldquo;new longitude&amp;rdquo; prize - which looks pretty interesting. There were six rapid fire talks, and I found the presentation format to be excellent. As with the previous event, this one was organised by the WriteLaTeX guys, and I&amp;rsquo;d just like to extend a big thanks to them for again putting on a great little event.</description>
+      <guid>http://scholarly-comms-product-blog.com/categories/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ai</title>
+      <link>http://scholarly-comms-product-blog.com/categories/ai/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alm</title>
+      <link>http://scholarly-comms-product-blog.com/categories/alm/</link>
+      <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/alm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Altmetrics</title>
+      <link>http://scholarly-comms-product-blog.com/categories/altmetrics/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/altmetrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Articles</title>
+      <link>http://scholarly-comms-product-blog.com/categories/articles/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arxiv</title>
+      <link>http://scholarly-comms-product-blog.com/categories/arxiv/</link>
+      <pubDate>Tue, 04 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authoring</title>
+      <link>http://scholarly-comms-product-blog.com/categories/authoring/</link>
+      <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/authoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Belmont</title>
+      <link>http://scholarly-comms-product-blog.com/categories/belmont/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/belmont/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain</title>
+      <link>http://scholarly-comms-product-blog.com/categories/blockchain/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>http://scholarly-comms-product-blog.com/categories/business/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cc By</title>
+      <link>http://scholarly-comms-product-blog.com/categories/cc-by/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/cc-by/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charleston</title>
+      <link>http://scholarly-comms-product-blog.com/categories/charleston/</link>
+      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/charleston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chasm</title>
+      <link>http://scholarly-comms-product-blog.com/categories/chasm/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/chasm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Citation</title>
+      <link>http://scholarly-comms-product-blog.com/categories/citation/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/citation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Citations</title>
+      <link>http://scholarly-comms-product-blog.com/categories/citations/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/citations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coasp</title>
+      <link>http://scholarly-comms-product-blog.com/categories/coasp/</link>
+      <pubDate>Thu, 06 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/coasp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference</title>
+      <link>http://scholarly-comms-product-blog.com/categories/conference/</link>
+      <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consolidation</title>
+      <link>http://scholarly-comms-product-blog.com/categories/consolidation/</link>
+      <pubDate>Sun, 19 Jun 2016 22:53:47 +0100</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/consolidation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cool</title>
+      <link>http://scholarly-comms-product-blog.com/categories/cool/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/cool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crossref</title>
+      <link>http://scholarly-comms-product-blog.com/categories/crossref/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/crossref/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cug</title>
+      <link>http://scholarly-comms-product-blog.com/categories/cug/</link>
+      <pubDate>Mon, 30 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/cug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>http://scholarly-comms-product-blog.com/categories/data/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Management</title>
+      <link>http://scholarly-comms-product-blog.com/categories/data-management/</link>
+      <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/data-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>http://scholarly-comms-product-blog.com/categories/design/</link>
+      <pubDate>Mon, 30 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Thinking</title>
+      <link>http://scholarly-comms-product-blog.com/categories/design-thinking/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/design-thinking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>http://scholarly-comms-product-blog.com/categories/development/</link>
+      <pubDate>Mon, 30 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovery</title>
+      <link>http://scholarly-comms-product-blog.com/categories/discovery/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dog in Manger</title>
+      <link>http://scholarly-comms-product-blog.com/categories/dog-in-manger/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/dog-in-manger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doi</title>
+      <link>http://scholarly-comms-product-blog.com/categories/doi/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/doi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drafttoblog</title>
+      <link>http://scholarly-comms-product-blog.com/categories/drafttoblog/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/drafttoblog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dystopia</title>
+      <link>http://scholarly-comms-product-blog.com/categories/dystopia/</link>
+      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/dystopia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elife</title>
+      <link>http://scholarly-comms-product-blog.com/categories/elife/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/elife/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elife Lens</title>
+      <link>http://scholarly-comms-product-blog.com/categories/elife-lens/</link>
+      <pubDate>Wed, 28 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/elife-lens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elsevier</title>
+      <link>http://scholarly-comms-product-blog.com/categories/elsevier/</link>
+      <pubDate>Sun, 19 Jun 2016 22:53:47 +0100</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/elsevier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encode</title>
+      <link>http://scholarly-comms-product-blog.com/categories/encode/</link>
+      <pubDate>Wed, 30 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/encode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erc</title>
+      <link>http://scholarly-comms-product-blog.com/categories/erc/</link>
+      <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/erc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eu</title>
+      <link>http://scholarly-comms-product-blog.com/categories/eu/</link>
+      <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/eu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filter Failure</title>
+      <link>http://scholarly-comms-product-blog.com/categories/filter-failure/</link>
+      <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/filter-failure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Funders</title>
+      <link>http://scholarly-comms-product-blog.com/categories/funders/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/funders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future</title>
+      <link>http://scholarly-comms-product-blog.com/categories/future/</link>
+      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/future/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future of Publishing</title>
+      <link>http://scholarly-comms-product-blog.com/categories/future-of-publishing/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/future-of-publishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Futurepub</title>
+      <link>http://scholarly-comms-product-blog.com/categories/futurepub/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/futurepub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Futurepub10</title>
+      <link>http://scholarly-comms-product-blog.com/categories/futurepub10/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/futurepub10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gold</title>
+      <link>http://scholarly-comms-product-blog.com/categories/gold/</link>
+      <pubDate>Tue, 02 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/gold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph</title>
+      <link>http://scholarly-comms-product-blog.com/categories/graph/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Green</title>
+      <link>http://scholarly-comms-product-blog.com/categories/green/</link>
+      <pubDate>Tue, 02 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/green/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Groupwork</title>
+      <link>http://scholarly-comms-product-blog.com/categories/groupwork/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/groupwork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Horizon 2020</title>
+      <link>http://scholarly-comms-product-blog.com/categories/horizon-2020/</link>
+      <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/horizon-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hype Machine</title>
+      <link>http://scholarly-comms-product-blog.com/categories/hype-machine/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/hype-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industry</title>
+      <link>http://scholarly-comms-product-blog.com/categories/industry/</link>
+      <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innovation</title>
+      <link>http://scholarly-comms-product-blog.com/categories/innovation/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/innovation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innovations</title>
+      <link>http://scholarly-comms-product-blog.com/categories/innovations/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/innovations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interesting</title>
+      <link>http://scholarly-comms-product-blog.com/categories/interesting/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/interesting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jobs to Be Done</title>
+      <link>http://scholarly-comms-product-blog.com/categories/jobs-to-be-done/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/jobs-to-be-done/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latex</title>
+      <link>http://scholarly-comms-product-blog.com/categories/latex/</link>
+      <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/latex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leadership</title>
+      <link>http://scholarly-comms-product-blog.com/categories/leadership/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lean</title>
+      <link>http://scholarly-comms-product-blog.com/categories/lean/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/lean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lean Value Tree</title>
+      <link>http://scholarly-comms-product-blog.com/categories/lean-value-tree/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/lean-value-tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>http://scholarly-comms-product-blog.com/categories/learning/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lens</title>
+      <link>http://scholarly-comms-product-blog.com/categories/lens/</link>
+      <pubDate>Wed, 28 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/lens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Libraries</title>
+      <link>http://scholarly-comms-product-blog.com/categories/libraries/</link>
+      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/libraries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Library</title>
+      <link>http://scholarly-comms-product-blog.com/categories/library/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/library/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lvt</title>
+      <link>http://scholarly-comms-product-blog.com/categories/lvt/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/lvt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>http://scholarly-comms-product-blog.com/categories/machine-learning/</link>
+      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Management</title>
+      <link>http://scholarly-comms-product-blog.com/categories/management/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meetup</title>
+      <link>http://scholarly-comms-product-blog.com/categories/meetup/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Megajournals</title>
+      <link>http://scholarly-comms-product-blog.com/categories/megajournals/</link>
+      <pubDate>Mon, 03 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/megajournals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://scholarly-comms-product-blog.com/categories/music/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nature</title>
+      <link>http://scholarly-comms-product-blog.com/categories/nature/</link>
+      <pubDate>Mon, 03 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networks</title>
+      <link>http://scholarly-comms-product-blog.com/categories/networks/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nhs</title>
+      <link>http://scholarly-comms-product-blog.com/categories/nhs/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/nhs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oa</title>
+      <link>http://scholarly-comms-product-blog.com/categories/oa/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/oa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Access</title>
+      <link>http://scholarly-comms-product-blog.com/categories/open-access/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/open-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Data</title>
+      <link>http://scholarly-comms-product-blog.com/categories/open-data/</link>
+      <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/open-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Science</title>
+      <link>http://scholarly-comms-product-blog.com/categories/open-science/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/open-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Openaccess</title>
+      <link>http://scholarly-comms-product-blog.com/categories/openaccess/</link>
+      <pubDate>Thu, 12 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/openaccess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer Review</title>
+      <link>http://scholarly-comms-product-blog.com/categories/peer-review/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/peer-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plos</title>
+      <link>http://scholarly-comms-product-blog.com/categories/plos/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/plos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preprints</title>
+      <link>http://scholarly-comms-product-blog.com/categories/preprints/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/preprints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product Development</title>
+      <link>http://scholarly-comms-product-blog.com/categories/product-development/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/product-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product Management</title>
+      <link>http://scholarly-comms-product-blog.com/categories/product-management/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/product-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>http://scholarly-comms-product-blog.com/categories/programming/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publihsing</title>
+      <link>http://scholarly-comms-product-blog.com/categories/publihsing/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/publihsing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publishing</title>
+      <link>http://scholarly-comms-product-blog.com/categories/publishing/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/publishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rave</title>
+      <link>http://scholarly-comms-product-blog.com/categories/rave/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/rave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommendations</title>
+      <link>http://scholarly-comms-product-blog.com/categories/recommendations/</link>
+      <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/recommendations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://scholarly-comms-product-blog.com/categories/research/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sage</title>
+      <link>http://scholarly-comms-product-blog.com/categories/sage/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/sage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scholarly Comms</title>
+      <link>http://scholarly-comms-product-blog.com/categories/scholarly-comms/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/scholarly-comms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scholarly Publishing</title>
+      <link>http://scholarly-comms-product-blog.com/categories/scholarly-publishing/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/scholarly-publishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>http://scholarly-comms-product-blog.com/categories/science/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slowness</title>
+      <link>http://scholarly-comms-product-blog.com/categories/slowness/</link>
+      <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/slowness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Carpentry</title>
+      <link>http://scholarly-comms-product-blog.com/categories/software-carpentry/</link>
+      <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/software-carpentry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ssrn</title>
+      <link>http://scholarly-comms-product-blog.com/categories/ssrn/</link>
+      <pubDate>Sun, 19 Jun 2016 22:53:47 +0100</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/ssrn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stem</title>
+      <link>http://scholarly-comms-product-blog.com/categories/stem/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/stem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stm</title>
+      <link>http://scholarly-comms-product-blog.com/categories/stm/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/stm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategy</title>
+      <link>http://scholarly-comms-product-blog.com/categories/strategy/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Techniques</title>
+      <link>http://scholarly-comms-product-blog.com/categories/techniques/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/techniques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>http://scholarly-comms-product-blog.com/categories/technology/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Threaded Publications</title>
+      <link>http://scholarly-comms-product-blog.com/categories/threaded-publications/</link>
+      <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/threaded-publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Threads</title>
+      <link>http://scholarly-comms-product-blog.com/categories/threads/</link>
+      <pubDate>Wed, 30 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/threads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>http://scholarly-comms-product-blog.com/categories/tools/</link>
+      <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transparency</title>
+      <link>http://scholarly-comms-product-blog.com/categories/transparency/</link>
+      <pubDate>Sun, 17 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/transparency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends</title>
+      <link>http://scholarly-comms-product-blog.com/categories/trends/</link>
+      <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/trends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ux</title>
+      <link>http://scholarly-comms-product-blog.com/categories/ux/</link>
+      <pubDate>Mon, 30 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/ux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualisation</title>
+      <link>http://scholarly-comms-product-blog.com/categories/visualisation/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/visualisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>http://scholarly-comms-product-blog.com/categories/web/</link>
+      <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wikidata</title>
+      <link>http://scholarly-comms-product-blog.com/categories/wikidata/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/wikidata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wikipedia</title>
+      <link>http://scholarly-comms-product-blog.com/categories/wikipedia/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/wikipedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writelatex</title>
+      <link>http://scholarly-comms-product-blog.com/categories/writelatex/</link>
+      <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/writelatex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yenow</title>
+      <link>http://scholarly-comms-product-blog.com/categories/yenow/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/yenow/</guid>
+      <description></description>
     </item>
     
   </channel>
