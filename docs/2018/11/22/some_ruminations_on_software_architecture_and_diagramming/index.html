@@ -1,0 +1,506 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<meta property="og:title" content="Some ruminations on software architecture and diagramming" />
+<meta property="og:description" content="So Pat Kua recently tweeted:
+UML failed so here we have AML (Arbitrary Modeling Language) https://t.co/BnbgC8ZHTD
+&mdash; Pat Kua (@patkua) November 9, 2018&lt;_a&gt;&lt;_blockquote&gt; 
+and this got me thinking about the worries I&rsquo;ve had about not doing &ldquo;diagramming&rdquo; right, but the above tweet led me to read a ton of really interesting posts on software architecting.
+Bottom line is, as with so many things, pick the artefact that fits the purpose and the audience." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://scholarly-comms-product-blog.com/2018/11/22/some_ruminations_on_software_architecture_and_diagramming/" />
+
+
+
+<meta property="article:published_time" content="2018-11-22T00:00:00&#43;00:00"/>
+
+<meta property="article:modified_time" content="2018-11-22T00:00:00&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Some ruminations on software architecture and diagramming"/>
+<meta name="twitter:description" content="So Pat Kua recently tweeted:
+UML failed so here we have AML (Arbitrary Modeling Language) https://t.co/BnbgC8ZHTD
+&mdash; Pat Kua (@patkua) November 9, 2018&lt;_a&gt;&lt;_blockquote&gt; 
+and this got me thinking about the worries I&rsquo;ve had about not doing &ldquo;diagramming&rdquo; right, but the above tweet led me to read a ton of really interesting posts on software architecting.
+Bottom line is, as with so many things, pick the artefact that fits the purpose and the audience."/>
+
+
+
+    <link rel="canonical" href="http://scholarly-comms-product-blog.com/2018/11/22/some_ruminations_on_software_architecture_and_diagramming/">
+
+    <title>
+      
+        Some ruminations on software architecture and diagramming | ScholCommsProd
+      
+    </title>
+
+    
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+
+    <link href="http://scholarly-comms-product-blog.com/css/style.css" rel="stylesheet">
+
+    
+
+    
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-120951226-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+    
+  </head>
+  <body>
+    
+      <header class="blog-header">
+    <nav class="navbar navbar-expand-md navbar-light bg-light">
+        <a class="navbar-brand" href="/">
+            ScholCommsProd
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
+            aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-between" id="navbarNav">
+            <ul class="navbar-nav">
+                
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="/about/">About</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="/categories">Categories</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="/post/index.xml">RSS</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="/post/">Posts</a>
+                </li>
+                
+            </ul>
+        </div>
+    </nav>
+</header>
+
+    
+
+    
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-lg-8 blog-main">
+
+          
+
+
+<header>
+    <h2 class="blog-post-title">
+        <a class="text-dark" href="/2018/11/22/some_ruminations_on_software_architecture_and_diagramming/">Some ruminations on software architecture and diagramming</a>
+    </h2>
+    
+
+
+<div class="blog-post-date text-secondary">
+    
+        Nov 22, 2018
+    
+    
+</div>
+
+    
+    
+<div class="blog-post-categories text-secondary">
+    <strong>Categories:</strong>
+    
+        <a class="badge badge-primary" href="/categories/diagramming">diagramming</a>
+    
+        <a class="badge badge-primary" href="/categories/architecture">architecture</a>
+    
+        <a class="badge badge-primary" href="/categories/systems">systems</a>
+    
+</div>
+
+    <hr>
+</header>
+<article class="blog-post">
+    <p>So Pat Kua recently tweeted:</p>
+
+<p><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">UML failed so here we have AML (Arbitrary Modeling Language) <a href="https://t.co/BnbgC8ZHTD">https://t.co/BnbgC8ZHTD</a></p>&mdash; Pat Kua (@patkua) <a href="https://twitter.com/patkua/status/1061021362716852225?ref_src=twsrc%5Etfw">November 9, 2018&lt;_a&gt;&lt;_blockquote&gt; <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<p>and this got me thinking about the worries I&rsquo;ve had about not doing &ldquo;diagramming&rdquo; right, but the above tweet led me to read a ton of really interesting posts on software architecting.</p>
+
+<p>Bottom line is, as with so many things, pick the artefact that fits the purpose and the audience.</p>
+
+<p>UML - the unified modelling language (<a href="https://en.wikipedia.org/wiki/Unified_Modeling_Language">https://en.wikipedia.org/wiki/Unified_Modeling_Language</a>) is the de-facto standard for creating entity-relationship diagrams. The following thread talks about why it looks like this approach has &ldquo;failed&rdquo;<a href="https://dzone.com/articles/uml-failed-so-here-we-have-aml">https://dzone.com/articles/uml-failed-so-here-we-have-aml</a>. The question under consideration is whether UML has met the needs of creating great software.</p>
+
+<p>This post for me nails it: <a href="http://memeagora.blogspot.com/2008/12/irrational-artifact-attachment.html">http://memeagora.blogspot.com/2008/12/irrational-artifact-attachment.html</a></p>
+
+<blockquote>
+<p>If you create a beautiful UML diagram using some tool like Visio that takes 2 hours, you have an irrational attachment to that artifact that&rsquo;s roughly proportional to the amount of time invested. That means that you&rsquo;ll be more attached to a 4 hour diagram than a 2 hour one. By &ldquo;irrational attachment&rdquo;, I mean that it&rsquo;s harder to listen to reason as to why it&rsquo;s wrong because you know how much time it took to create it (and therefore the required effort to update it).</p>
+</blockquote>
+
+<p>What this is saying is that you need to not get too tied to an artefact when what you are doing is changing underneath you, as it will prevent you from adapting you thinking towards the best solution.</p>
+
+<p>One of my good friends who is an architect for transport for London had a great take on this. For communicating plans, and working through the design phase keeping diagrams really low fidelity is important, and this is the level of abstraction that architects should probably live in, but a problem arises when developers think that the architects should be doing detailed diagramming, and vice versa. The  <a href="https://c4model.com">C4 model</a> sounds like a great way to navigate these kinds of discussions, at what level of abstraction are we dealing with? Who are the stakeholders that are involved? What is being communicated? How is this artefact going to reduce uncertainty and increase the likelihood for success?</p>
+
+<p>If you do want to create diagrams though then do try to make your diagrams easy to read: <a href="https://blog.zone24x7.com/communicate-with-more-appealing-diagrams/">Communicate with more Appealing Diagrams | Sparks</a></p>
+
+<p>Tools that I have found to be useful for creating “diagrams” of the high level design of system that I try to show to people are:</p>
+
+<ul>
+<li>Keynote<br /></li>
+<li>Paper by 53 on iOS</li>
+<li>Omnigraffle with AWS service stencils</li>
+</ul>
+
+<p>Recently (within the last week), I’ve found a nice tool for crating network relationships — <a href="http://www.apcjones.com/arrows/#">Arrow Tool</a>.</p>
+
+<p>Finally, (this episode)[<a href="http://www.se-radio.net/2015/06/episode-228-software-architecture-sketches-with-simon-brown/">Episode 228: Software Architecture Sketches with Simon Brown  : Software Engineering Radio</a>] of software engineering radio sounds like it has a good take on this topic (but I’ve not had the time to fully listen to it yet). It talks about the c4 model for describing software architecture <a href="https://c4model.com">The C4 model for software architecture</a>.</p>
+
+    <p class="ccby">posted under a Creative Commons Attribution 4.0 International License</p>
+
+    
+
+    
+
+
+</article>
+
+
+
+        </div>
+
+        <aside class="col-12 col-lg-3 ml-auto blog-sidebar">
+    
+        
+
+
+<section>
+    <h4>Recent Posts</h4>
+    <ol class="list-unstyled">
+        
+        <li>
+            <a href="/2018/11/22/some_ruminations_on_software_architecture_and_diagramming/">Some ruminations on software architecture and diagramming</a>
+        </li>
+        
+        <li>
+            <a href="/2018/10/26/the_state_of_retractions_in_the_research_literature._/">The state of retractions in the research literature.</a>
+        </li>
+        
+        <li>
+            <a href="/2018/10/24/rave_publishing_technology_conference_2018_/">RAVE publishing technology conference 2018</a>
+        </li>
+        
+        <li>
+            <a href="/2018/10/19/belmont_forum_round_table_-_data_accessibility_statements_/">Belmont Forum Round Table - data accessibility statements</a>
+        </li>
+        
+        <li>
+            <a href="/2018/10/18/one_two_four_all_-_a_technique_for_getting_insights_from_groups/">One Two Four All - a technique for getting insights from groups</a>
+        </li>
+        
+    </ol>
+</section>
+
+    
+    
+        <section>
+    
+        
+        <h4>Categories</h4>
+        <p>
+            
+            <a class="badge badge-primary" href="/categories/"></a>
+            
+            <a class="badge badge-primary" href="/categories/academia">academia</a>
+            
+            <a class="badge badge-primary" href="/categories/agile">agile</a>
+            
+            <a class="badge badge-primary" href="/categories/ai">ai</a>
+            
+            <a class="badge badge-primary" href="/categories/alm">alm</a>
+            
+            <a class="badge badge-primary" href="/categories/altmetrics">altmetrics</a>
+            
+            <a class="badge badge-primary" href="/categories/architecture">architecture</a>
+            
+            <a class="badge badge-primary" href="/categories/articles">articles</a>
+            
+            <a class="badge badge-primary" href="/categories/arxiv">arxiv</a>
+            
+            <a class="badge badge-primary" href="/categories/authoring">authoring</a>
+            
+            <a class="badge badge-primary" href="/categories/belmont">belmont</a>
+            
+            <a class="badge badge-primary" href="/categories/blockchain">blockchain</a>
+            
+            <a class="badge badge-primary" href="/categories/business">business</a>
+            
+            <a class="badge badge-primary" href="/categories/cc-by">cc-by</a>
+            
+            <a class="badge badge-primary" href="/categories/charleston">charleston</a>
+            
+            <a class="badge badge-primary" href="/categories/chasm">chasm</a>
+            
+            <a class="badge badge-primary" href="/categories/citation">citation</a>
+            
+            <a class="badge badge-primary" href="/categories/citations">citations</a>
+            
+            <a class="badge badge-primary" href="/categories/coasp">coasp</a>
+            
+            <a class="badge badge-primary" href="/categories/conference">conference</a>
+            
+            <a class="badge badge-primary" href="/categories/consolidation">consolidation</a>
+            
+            <a class="badge badge-primary" href="/categories/cool">cool</a>
+            
+            <a class="badge badge-primary" href="/categories/crossref">crossref</a>
+            
+            <a class="badge badge-primary" href="/categories/cug">cug</a>
+            
+            <a class="badge badge-primary" href="/categories/data">data</a>
+            
+            <a class="badge badge-primary" href="/categories/data-management">data-management</a>
+            
+            <a class="badge badge-primary" href="/categories/design">design</a>
+            
+            <a class="badge badge-primary" href="/categories/design-thinking">design-thinking</a>
+            
+            <a class="badge badge-primary" href="/categories/development">development</a>
+            
+            <a class="badge badge-primary" href="/categories/diagramming">diagramming</a>
+            
+            <a class="badge badge-primary" href="/categories/discovery">discovery</a>
+            
+            <a class="badge badge-primary" href="/categories/dog-in-manger">dog-in-manger</a>
+            
+            <a class="badge badge-primary" href="/categories/doi">doi</a>
+            
+            <a class="badge badge-primary" href="/categories/drafttoblog">drafttoblog</a>
+            
+            <a class="badge badge-primary" href="/categories/dystopia">dystopia</a>
+            
+            <a class="badge badge-primary" href="/categories/elife">elife</a>
+            
+            <a class="badge badge-primary" href="/categories/elife-lens">elife-lens</a>
+            
+            <a class="badge badge-primary" href="/categories/elsevier">elsevier</a>
+            
+            <a class="badge badge-primary" href="/categories/encode">encode</a>
+            
+            <a class="badge badge-primary" href="/categories/erc">erc</a>
+            
+            <a class="badge badge-primary" href="/categories/eu">eu</a>
+            
+            <a class="badge badge-primary" href="/categories/filter-failure">filter-failure</a>
+            
+            <a class="badge badge-primary" href="/categories/funders">funders</a>
+            
+            <a class="badge badge-primary" href="/categories/future">future</a>
+            
+            <a class="badge badge-primary" href="/categories/future-of-publishing">future-of-publishing</a>
+            
+            <a class="badge badge-primary" href="/categories/futurepub">futurepub</a>
+            
+            <a class="badge badge-primary" href="/categories/futurepub10">futurepub10</a>
+            
+            <a class="badge badge-primary" href="/categories/gold">gold</a>
+            
+            <a class="badge badge-primary" href="/categories/graph">graph</a>
+            
+            <a class="badge badge-primary" href="/categories/green">green</a>
+            
+            <a class="badge badge-primary" href="/categories/groupwork">groupwork</a>
+            
+            <a class="badge badge-primary" href="/categories/horizon-2020">horizon-2020</a>
+            
+            <a class="badge badge-primary" href="/categories/hype-machine">hype-machine</a>
+            
+            <a class="badge badge-primary" href="/categories/industry">industry</a>
+            
+            <a class="badge badge-primary" href="/categories/innovation">innovation</a>
+            
+            <a class="badge badge-primary" href="/categories/innovations">innovations</a>
+            
+            <a class="badge badge-primary" href="/categories/interesting">interesting</a>
+            
+            <a class="badge badge-primary" href="/categories/jobs-to-be-done">jobs-to-be-done</a>
+            
+            <a class="badge badge-primary" href="/categories/latex">latex</a>
+            
+            <a class="badge badge-primary" href="/categories/leadership">leadership</a>
+            
+            <a class="badge badge-primary" href="/categories/lean">lean</a>
+            
+            <a class="badge badge-primary" href="/categories/lean-value-tree">lean-value-tree</a>
+            
+            <a class="badge badge-primary" href="/categories/learning">learning</a>
+            
+            <a class="badge badge-primary" href="/categories/lens">lens</a>
+            
+            <a class="badge badge-primary" href="/categories/libraries">libraries</a>
+            
+            <a class="badge badge-primary" href="/categories/library">library</a>
+            
+            <a class="badge badge-primary" href="/categories/lvt">lvt</a>
+            
+            <a class="badge badge-primary" href="/categories/machine-learning">machine-learning</a>
+            
+            <a class="badge badge-primary" href="/categories/management">management</a>
+            
+            <a class="badge badge-primary" href="/categories/meetup">meetup</a>
+            
+            <a class="badge badge-primary" href="/categories/megajournals">megajournals</a>
+            
+            <a class="badge badge-primary" href="/categories/music">music</a>
+            
+            <a class="badge badge-primary" href="/categories/nature">nature</a>
+            
+            <a class="badge badge-primary" href="/categories/networks">networks</a>
+            
+            <a class="badge badge-primary" href="/categories/nhs">nhs</a>
+            
+            <a class="badge badge-primary" href="/categories/oa">oa</a>
+            
+            <a class="badge badge-primary" href="/categories/open-access">open-access</a>
+            
+            <a class="badge badge-primary" href="/categories/open-data">open-data</a>
+            
+            <a class="badge badge-primary" href="/categories/open-science">open-science</a>
+            
+            <a class="badge badge-primary" href="/categories/openaccess">openaccess</a>
+            
+            <a class="badge badge-primary" href="/categories/peer-review">peer-review</a>
+            
+            <a class="badge badge-primary" href="/categories/plos">plos</a>
+            
+            <a class="badge badge-primary" href="/categories/preprints">preprints</a>
+            
+            <a class="badge badge-primary" href="/categories/product-development">product-development</a>
+            
+            <a class="badge badge-primary" href="/categories/product-management">product-management</a>
+            
+            <a class="badge badge-primary" href="/categories/programming">programming</a>
+            
+            <a class="badge badge-primary" href="/categories/publihsing">publihsing</a>
+            
+            <a class="badge badge-primary" href="/categories/publishing">publishing</a>
+            
+            <a class="badge badge-primary" href="/categories/rave">rave</a>
+            
+            <a class="badge badge-primary" href="/categories/recommendations">recommendations</a>
+            
+            <a class="badge badge-primary" href="/categories/research">research</a>
+            
+            <a class="badge badge-primary" href="/categories/retractions">retractions</a>
+            
+            <a class="badge badge-primary" href="/categories/sage">sage</a>
+            
+            <a class="badge badge-primary" href="/categories/scholarly-comms">scholarly-comms</a>
+            
+            <a class="badge badge-primary" href="/categories/scholarly-publishing">scholarly-publishing</a>
+            
+            <a class="badge badge-primary" href="/categories/science">science</a>
+            
+            <a class="badge badge-primary" href="/categories/slowness">slowness</a>
+            
+            <a class="badge badge-primary" href="/categories/software-carpentry">software-carpentry</a>
+            
+            <a class="badge badge-primary" href="/categories/ssrn">ssrn</a>
+            
+            <a class="badge badge-primary" href="/categories/stem">stem</a>
+            
+            <a class="badge badge-primary" href="/categories/stm">stm</a>
+            
+            <a class="badge badge-primary" href="/categories/strategy">strategy</a>
+            
+            <a class="badge badge-primary" href="/categories/systems">systems</a>
+            
+            <a class="badge badge-primary" href="/categories/techniques">techniques</a>
+            
+            <a class="badge badge-primary" href="/categories/technology">technology</a>
+            
+            <a class="badge badge-primary" href="/categories/threaded-publications">threaded-publications</a>
+            
+            <a class="badge badge-primary" href="/categories/threads">threads</a>
+            
+            <a class="badge badge-primary" href="/categories/tools">tools</a>
+            
+            <a class="badge badge-primary" href="/categories/transparency">transparency</a>
+            
+            <a class="badge badge-primary" href="/categories/trends">trends</a>
+            
+            <a class="badge badge-primary" href="/categories/ux">ux</a>
+            
+            <a class="badge badge-primary" href="/categories/visualisation">visualisation</a>
+            
+            <a class="badge badge-primary" href="/categories/web">web</a>
+            
+            <a class="badge badge-primary" href="/categories/wikidata">wikidata</a>
+            
+            <a class="badge badge-primary" href="/categories/wikipedia">wikipedia</a>
+            
+            <a class="badge badge-primary" href="/categories/writelatex">writelatex</a>
+            
+            <a class="badge badge-primary" href="/categories/yenow">yenow</a>
+            
+        </p>
+        
+    
+        
+    
+</section>
+    
+</aside>
+
+      </div>
+    </div>
+    
+
+    
+      
+
+
+
+
+
+
+<footer class="blog-footer w-100">
+    <nav class="navbar navbar-light bg-light">
+        <p class="w-100 text-center">Hugo template made with ❤ by <a href="https://github.com/Xzya">Xzya</a>, inspired by <a href="https://github.com/alanorth/hugo-theme-bootstrap4-blog">hugo-theme-bootstrap4-blog</a></p>
+        <p class="w-100 text-center"><a href="#">Back to top</a></p>
+    </nav>
+</footer>
+
+    
+
+    
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+  </body>
+</html>

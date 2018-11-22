@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/2018/11/22/some_ruminations_on_software_architecture_and_diagramming/</loc>
+    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/2018/10/26/the_state_of_retractions_in_the_research_literature._/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url>
@@ -299,6 +304,12 @@
   </url>
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/architecture/</loc>
+    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/categories/articles/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -433,6 +444,12 @@
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/development/</loc>
     <lastmod>2013-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/diagramming/</loc>
+    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -750,7 +767,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/post/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -822,7 +839,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -877,6 +894,12 @@
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/strategy/</loc>
     <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/systems/</loc>
+    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
