@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/2018/11/29/agile_or_agile_/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/2018/11/22/some_ruminations_on_software_architecture_and_diagramming/</loc>
     <lastmod>2018-11-22T00:00:00+00:00</lastmod>
   </url>
@@ -281,7 +286,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/agile/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -767,7 +772,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/post/</loc>
-    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -839,7 +844,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/</loc>
-    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -864,6 +869,12 @@
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/slowness/</loc>
     <lastmod>2012-08-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/software/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
