@@ -1,0 +1,572 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<meta property="og:title" content="Augmented Peer Review" />
+<meta property="og:description" content="Last year I was asked to contribute to a special issue on the evolution of peer review. I got quite excited about doing this, but then realised that I really didn&rsquo;t have the time to write a paper. I&rsquo;m not a practicing academic, I build products, and while at Mendeley I really had far too much on my plate to find the time to write up a paper. However the topic does interest me, and I am a strong believer that web scale technologies can help with the scientific communication process though a large number of avenues." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://scholarly-comms-product-blog.com/2012/06/17/proposal-on-peer-review/" />
+
+
+
+<meta property="article:published_time" content="2012-06-17T00:00:00&#43;00:00"/>
+
+<meta property="article:modified_time" content="2012-06-17T00:00:00&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Augmented Peer Review"/>
+<meta name="twitter:description" content="Last year I was asked to contribute to a special issue on the evolution of peer review. I got quite excited about doing this, but then realised that I really didn&rsquo;t have the time to write a paper. I&rsquo;m not a practicing academic, I build products, and while at Mendeley I really had far too much on my plate to find the time to write up a paper. However the topic does interest me, and I am a strong believer that web scale technologies can help with the scientific communication process though a large number of avenues."/>
+
+
+
+    <link rel="canonical" href="http://scholarly-comms-product-blog.com/2012/06/17/proposal-on-peer-review/">
+
+    <title>
+      
+        Augmented Peer Review | ScholCommsProd
+      
+    </title>
+
+    
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+
+    <link href="http://scholarly-comms-product-blog.com/css/style.css" rel="stylesheet">
+
+    
+
+    
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-120951226-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+    
+  </head>
+  <body>
+    
+      <header class="blog-header">
+    <nav class="navbar navbar-expand-md navbar-light bg-light">
+        <a class="navbar-brand" href="/">
+            ScholCommsProd
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
+            aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-between" id="navbarNav">
+            <ul class="navbar-nav">
+                
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="/about/">About</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="/categories">Categories</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="/post/index.xml">RSS</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="/post/">Posts</a>
+                </li>
+                
+            </ul>
+        </div>
+    </nav>
+</header>
+
+    
+
+    
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-lg-8 blog-main">
+
+          
+
+
+<header>
+    <h2 class="blog-post-title">
+        <a class="text-dark" href="/2012/06/17/proposal-on-peer-review/">Augmented Peer Review</a>
+    </h2>
+    
+
+
+<div class="blog-post-date text-secondary">
+    
+        Jun 17, 2012
+    
+    
+</div>
+
+    
+    
+<div class="blog-post-categories text-secondary">
+    <strong>Categories:</strong>
+    
+        <a class="badge badge-primary" href="/categories/peer-review">peer review</a>
+    
+        <a class="badge badge-primary" href="/categories/altmetrics">altmetrics</a>
+    
+        <a class="badge badge-primary" href="/categories/publishing">publishing</a>
+    
+        <a class="badge badge-primary" href="/categories/open-access">open-access</a>
+    
+</div>
+
+    <hr>
+</header>
+<article class="blog-post">
+    
+
+<p>Last year I was asked to contribute to a special issue on the evolution of peer review. I got quite excited about doing this, but then realised that I really didn&rsquo;t have the time to write a paper. I&rsquo;m not a practicing academic, I build products, and while at Mendeley I really had far too much on my plate to find the time to write up a paper. However the topic does interest me, and I am a strong believer that web scale technologies can help with the scientific communication process though a large number of avenues. I was looking through my folder of draft blog posts, and I found the skeleton of the proposal that I had started to put together. I&rsquo;m posting this up now, including the editoral comments I got on the very rough draft. I remain lucky enough to be in a position to continue to build out the parts of the infrastrucutre that I think can help with all of this. I&rsquo;ll probably not get around to finishing my thoughts on this proposal in exactly the way that I had been thinking about it last year, but I might flesh out some related thoughts over the coming months.</p>
+
+<h1 id="delivering-an-augmented-peer-review-system-one-piece-at-a-time">Delivering an Augmented Peer Review System, one piece at a time.</h1>
+
+<h2 id="summary">Summary</h2>
+
+<p>Rather than trying to replace peer review, I will argue that we should create an augmented version of the system. I  propose that web scale technologies can be used to deliver this Augmented Peer Review. I will describe some of the functions of the peer review system and show some of these can already be helped with existing systems, and describe how some of the other functions may be helped in the near future.
+I will describe in detail how Mendeley has created a technology that can help with one core aspect of the peer review system, assisting in filtering the literature, and I will describe some of our upcoming plans to go further with this. I&rsquo;ll describe some of the weaknesses of our approach and contrast these to weaknesses in the existing system. I will also describe some experiments that we are planning on running that may validate the predicative power of newly coined metrics. Finally I will argue that getting access to the citation and review graph is the biggest factor in holding back the improvement of the peer review system.</p>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>There is little doubt that peer review is a topic of particular interest to academics. The Mendeley search catalog returns over 20 000 items with &ldquo;peer review&rdquo; in the title. There is a growing sentiment that &ldquo;peer review is broken&rdquo; (<a href="http://www.the-scientist.com/templates/trackable/display/article1.jsp?a_day=1&amp;index=1&amp;year=2010&amp;page=36&amp;month=8&amp;o_url=2010/8/1/36/1">I hate your paper</a> ), but broken or not, is it worth asking whether we can improve the current system in any way by applying social or technological changes to the practice of peer review? As a technologist I&rsquo;m in the lucky position of working on systems that can have an impact on the peer review system from a technological point of view, and so those are the solutions that I will focus on in this paper.</p>
+
+<h2 id="what-is-peer-review-anyway">What is peer review anyway?</h2>
+
+<p>One of the great problems with offering solutions to the problem of peer review is that it is actually a many headed beast, a Hydra of a system. It is many different things to different people. Some of it&rsquo;s core functions we can think of as being required, and others are more flexible depending on the policy of the peer review body.</p>
+
+<p>Generally Required:</p>
+
+<ul>
+<li><p>A cross-check of correctness.
+We assume that once past peer review an article is telling us something that is true about the world.</p></li>
+
+<li><p>A cross-check of novelty.
+We assume that the work has not been presented before, or by other people.</p></li>
+
+<li><p>Ensuring the correct link to related literature.
+We assume that the reviewer will inform the author of any missing credits that the author should have included in their paper to prior work.</p></li>
+
+<li><p>The creation of a pre-filtered body of literature, though the understanding of the filtering is not necessarily clear to the reader.<br />
+It is assumed that the literature that passes through the gate-keeping of peer review represents a special body of knowledge that can be depended upon for quality and accuracy. For the vast majority of content that passes peer review this is probably true, but not for all.</p></li>
+
+<li><p>Providing a record of prestige for the author.
+Getting the &ldquo;peer reviewd&rdquo; hit is the cornerstone of building a career in academia. The more exclusive the journal, the better for the author.</p></li>
+</ul>
+
+<p>Generally Optional:</p>
+
+<ul>
+<li><p>Screening for suitability criteria for a given journal, either subject or impact based.
+Some journals will reject a work not because the work itself is in any way wrong, but because the work does not fit the subject space of the journal. Other journals, notable the Nature stable of journals, will reject a work if the editor of the journal does not feel that the work is of sufficient &ldquo;impact&rdquo; or of general enough of a nature. The main Nature journal also has a policy of publishing works that relate to the physical sciences, and so does not accept literature in the computational or mathematical sciences. PLoS One takes exactly the opposite view on impact, and checks only for rigour in the reporting, however it also has a strong subject bias and does not publish in areas of pure physics.</p></li>
+
+<li><p>An opportunity to help improve the quality of the work.
+Though optional, many researchers put much time into helping to improve the quality of the manuscripts that they are reviewing. One of the main reported benefits of the peer review system is this improvement that authors feel of their work. This is almost entirely social, as there is rarely a published record of the reviewers comments.</p></li>
+
+<li><p>An opportunity to build or block the creation of social connections though contributed work.
+By contributing to the good peer reviewing of an article a researcher participates in the society of academia. This position can also be abused and used as a way to hinder the publication of competing researchers.</p></li>
+</ul>
+
+<p>## Augmenting parts of the functionality of Peer Review</p>
+
+<ul>
+<li>a cross-check of novelty</li>
+<li>ensuring the correct link to related literature</li>
+</ul>
+
+<p>Both of these functions are under the pressure of the scale of the literature. In 2008 the Research Information Network assessed that researches in the UK read up to 260 articles each per year (Anon, 2008. Activities , costs and funding flows in the scholarly communications system in the UK Report commissioned by the Research Information Network ( RIN ) Full Report. , (May).). At this rate, assuming no further research were published, it would take a researcher approximately 77000 years to read their way through the items cataloged in PubMed. Nowadays even a well read well connected researcher can only hope to have a deep familiarity with a fraction of the literature, however even hundreds of millions of documents can be scalably compared with the kinds of data structures and algorithms that have been created for indexing the web, such as schema-less data stores like HBase, and algorithms like map-reduce.</p>
+
+<p>The productisation of checking for similarity in the literature has already begun with the introduction of the <a href="http://www.crossref.org/crosscheck.html">cross check</a> service from cross ref
+. Online services like the <a href="http://www.biosemantics.org/jane/">journal author name estimator</a> can tell you what journals or articles are like the one you are currently writing . The next step will be to see such services integrated into the writing tools of the researcher.</p>
+
+<ul>
+<li>providing a record of prestige for the author</li>
+</ul>
+
+<p>This is actually where the majority of this article will focus, and it discuss the following:</p>
+
+<ul>
+<li>altmetrics</li>
+<li>the work of Bollen et al</li>
+
+<li><p>graph theory applied to impact</p></li>
+
+<li><p>Tools for processing large graphs
+The emergence of 3rd generation programming tools have driven the creation of libraries for managing graph structures that have realtivly humanly readable APIs. An example of this is <a href="http://networkx.lanl.gov/">networkx</a>, a graph library in python. Robust scalable databases for processing large graphs have emerged, such as <a href="http://neo4j.org/">neo4j</a>. The social web has driven the creation of very scalable systems for storing relational and non-relational data, such as <a href="https://github.com/twitter/flockdb">flockdb</a>.</p></li>
+
+<li><p>readership statics, and compare Mendeley readership statistics to those provided by services such as Connotea</p></li>
+
+<li><p>the Mendely API and the type of queries that can be resolved on the back of it</p></li>
+
+<li><p>plans for future work around individual impact based on Mendeley statistics</p></li>
+
+<li><p>moving from a central data store to a distributed model, the web of linked data</p></li>
+</ul>
+
+<h2 id="references">References</h2>
+
+<p><a href="http://altmetrics.org/manifesto/">alt metrics manifesto</a></p>
+
+<p><a href="http://www.mendeley.com/research/diffusion-of-scientific-credits-and-the-ranking-of-scientists/">Radicchi, F. et al., 2009. Diffusion of scientific credits and the ranking of scientists. Physical Review E, 80(5), p.11. Available at: http://arxiv.org/abs/0907.1050 [Accessed August 16, 2010].</a></p>
+
+<p><a href="http://www.mendeley.com/research/a-principal-component-analysis-of-39-scientic-impact-measures/">Bollen, J. et al., 2009. A principal component analysis of 39 scientific impact measures. Methods, pp.1-19.</a></p>
+
+<p><a href="http://www.mendeley.com/research/academic-search-engine-spam-google-scholar-s-resilience-against-it/">Beel, J. &amp; Gipp, B., 2010. Academic Search Engine Spam and Google Scholarâs Resilience Against it. Journal of Electronic Publishing, 13(3).</a></p>
+
+<p><a href="http://www.mendeley.com/research/nefarious-numbers/">Arnold, D.N. &amp; Fowler, K.K., 2010. Nefarious Numbers. , p.5. Available at: http://arxiv.org/abs/1010.0278 [Accessed October 6, 2010].</a></p>
+
+<h2 id="editorial-comments">Editorial Comments</h2>
+
+<p>This abstract/outline contains a lot of highly relevant background and several good ideas and important observations. Services like Mendeley and Zotero are in a key position for providing the web-tools for realising open post-publication peer review. What I’m still missing in your outline is a coherent vision for how new papers can be openly evaluated by the community with these tools. Imagine you had infinite resources, what system for open evaluation of the scientific literature would you build?
+I would like to invite you to contribute a full paper with the hope that you will describe a detailed vision for open evaluation (e.g. Mendeley users rating and reviewing papers and sharing their ratings and reviews). The vision should include a description of the required web-based infrastructure as well as mechanisms of motivating reviewers. Consider including a step-by-step description of the process by which a paper is evaluated. Make sure to address the design decisions listed in the email. Feel free to use figures to communicate the key concepts and processes of your vision. Please note that the innovative features that distinguish your approach from those described in other contributions to this special topic should be clearly communicated in the title, in the abstract, and through the headings and terminology used in the paper.</p>
+
+    <p class="ccby">posted under a Creative Commons Attribution 4.0 International License</p>
+
+    
+
+    
+
+
+</article>
+
+
+
+        </div>
+
+        <aside class="col-12 col-lg-3 ml-auto blog-sidebar">
+    
+        
+
+
+<section>
+    <h4>Recent Posts</h4>
+    <ol class="list-unstyled">
+        
+        <li>
+            <a href="/2018/11/29/agile_or_agile_/">AGILE or agile?</a>
+        </li>
+        
+        <li>
+            <a href="/2018/11/22/some_ruminations_on_software_architecture_and_diagramming/">Some ruminations on software architecture and diagramming</a>
+        </li>
+        
+        <li>
+            <a href="/2018/10/26/the_state_of_retractions_in_the_research_literature._/">The state of retractions in the research literature.</a>
+        </li>
+        
+        <li>
+            <a href="/2018/10/24/rave_publishing_technology_conference_2018_/">RAVE publishing technology conference 2018</a>
+        </li>
+        
+        <li>
+            <a href="/2018/10/19/belmont_forum_round_table_-_data_accessibility_statements_/">Belmont Forum Round Table - data accessibility statements</a>
+        </li>
+        
+    </ol>
+</section>
+
+    
+    
+        <section>
+    
+        
+        <h4>Categories</h4>
+        <p>
+            
+            <a class="badge badge-primary" href="/categories/"></a>
+            
+            <a class="badge badge-primary" href="/categories/academia">academia</a>
+            
+            <a class="badge badge-primary" href="/categories/agile">agile</a>
+            
+            <a class="badge badge-primary" href="/categories/ai">ai</a>
+            
+            <a class="badge badge-primary" href="/categories/alm">alm</a>
+            
+            <a class="badge badge-primary" href="/categories/altmetrics">altmetrics</a>
+            
+            <a class="badge badge-primary" href="/categories/architecture">architecture</a>
+            
+            <a class="badge badge-primary" href="/categories/articles">articles</a>
+            
+            <a class="badge badge-primary" href="/categories/arxiv">arxiv</a>
+            
+            <a class="badge badge-primary" href="/categories/authoring">authoring</a>
+            
+            <a class="badge badge-primary" href="/categories/belmont">belmont</a>
+            
+            <a class="badge badge-primary" href="/categories/blockchain">blockchain</a>
+            
+            <a class="badge badge-primary" href="/categories/business">business</a>
+            
+            <a class="badge badge-primary" href="/categories/cc-by">cc-by</a>
+            
+            <a class="badge badge-primary" href="/categories/charleston">charleston</a>
+            
+            <a class="badge badge-primary" href="/categories/chasm">chasm</a>
+            
+            <a class="badge badge-primary" href="/categories/citation">citation</a>
+            
+            <a class="badge badge-primary" href="/categories/citations">citations</a>
+            
+            <a class="badge badge-primary" href="/categories/coasp">coasp</a>
+            
+            <a class="badge badge-primary" href="/categories/conference">conference</a>
+            
+            <a class="badge badge-primary" href="/categories/consolidation">consolidation</a>
+            
+            <a class="badge badge-primary" href="/categories/cool">cool</a>
+            
+            <a class="badge badge-primary" href="/categories/crossref">crossref</a>
+            
+            <a class="badge badge-primary" href="/categories/cug">cug</a>
+            
+            <a class="badge badge-primary" href="/categories/data">data</a>
+            
+            <a class="badge badge-primary" href="/categories/data-management">data-management</a>
+            
+            <a class="badge badge-primary" href="/categories/design">design</a>
+            
+            <a class="badge badge-primary" href="/categories/design-thinking">design-thinking</a>
+            
+            <a class="badge badge-primary" href="/categories/development">development</a>
+            
+            <a class="badge badge-primary" href="/categories/diagramming">diagramming</a>
+            
+            <a class="badge badge-primary" href="/categories/discovery">discovery</a>
+            
+            <a class="badge badge-primary" href="/categories/dog-in-manger">dog-in-manger</a>
+            
+            <a class="badge badge-primary" href="/categories/doi">doi</a>
+            
+            <a class="badge badge-primary" href="/categories/drafttoblog">drafttoblog</a>
+            
+            <a class="badge badge-primary" href="/categories/dystopia">dystopia</a>
+            
+            <a class="badge badge-primary" href="/categories/elife">elife</a>
+            
+            <a class="badge badge-primary" href="/categories/elife-lens">elife-lens</a>
+            
+            <a class="badge badge-primary" href="/categories/elsevier">elsevier</a>
+            
+            <a class="badge badge-primary" href="/categories/encode">encode</a>
+            
+            <a class="badge badge-primary" href="/categories/erc">erc</a>
+            
+            <a class="badge badge-primary" href="/categories/eu">eu</a>
+            
+            <a class="badge badge-primary" href="/categories/filter-failure">filter-failure</a>
+            
+            <a class="badge badge-primary" href="/categories/funders">funders</a>
+            
+            <a class="badge badge-primary" href="/categories/future">future</a>
+            
+            <a class="badge badge-primary" href="/categories/future-of-publishing">future-of-publishing</a>
+            
+            <a class="badge badge-primary" href="/categories/futurepub">futurepub</a>
+            
+            <a class="badge badge-primary" href="/categories/futurepub10">futurepub10</a>
+            
+            <a class="badge badge-primary" href="/categories/gold">gold</a>
+            
+            <a class="badge badge-primary" href="/categories/graph">graph</a>
+            
+            <a class="badge badge-primary" href="/categories/green">green</a>
+            
+            <a class="badge badge-primary" href="/categories/groupwork">groupwork</a>
+            
+            <a class="badge badge-primary" href="/categories/horizon-2020">horizon-2020</a>
+            
+            <a class="badge badge-primary" href="/categories/hype-machine">hype-machine</a>
+            
+            <a class="badge badge-primary" href="/categories/industry">industry</a>
+            
+            <a class="badge badge-primary" href="/categories/innovation">innovation</a>
+            
+            <a class="badge badge-primary" href="/categories/innovations">innovations</a>
+            
+            <a class="badge badge-primary" href="/categories/interesting">interesting</a>
+            
+            <a class="badge badge-primary" href="/categories/jobs-to-be-done">jobs-to-be-done</a>
+            
+            <a class="badge badge-primary" href="/categories/latex">latex</a>
+            
+            <a class="badge badge-primary" href="/categories/leadership">leadership</a>
+            
+            <a class="badge badge-primary" href="/categories/lean">lean</a>
+            
+            <a class="badge badge-primary" href="/categories/lean-value-tree">lean-value-tree</a>
+            
+            <a class="badge badge-primary" href="/categories/learning">learning</a>
+            
+            <a class="badge badge-primary" href="/categories/lens">lens</a>
+            
+            <a class="badge badge-primary" href="/categories/libraries">libraries</a>
+            
+            <a class="badge badge-primary" href="/categories/library">library</a>
+            
+            <a class="badge badge-primary" href="/categories/lvt">lvt</a>
+            
+            <a class="badge badge-primary" href="/categories/machine-learning">machine-learning</a>
+            
+            <a class="badge badge-primary" href="/categories/management">management</a>
+            
+            <a class="badge badge-primary" href="/categories/meetup">meetup</a>
+            
+            <a class="badge badge-primary" href="/categories/megajournals">megajournals</a>
+            
+            <a class="badge badge-primary" href="/categories/music">music</a>
+            
+            <a class="badge badge-primary" href="/categories/nature">nature</a>
+            
+            <a class="badge badge-primary" href="/categories/networks">networks</a>
+            
+            <a class="badge badge-primary" href="/categories/nhs">nhs</a>
+            
+            <a class="badge badge-primary" href="/categories/oa">oa</a>
+            
+            <a class="badge badge-primary" href="/categories/open-access">open-access</a>
+            
+            <a class="badge badge-primary" href="/categories/open-data">open-data</a>
+            
+            <a class="badge badge-primary" href="/categories/open-science">open-science</a>
+            
+            <a class="badge badge-primary" href="/categories/openaccess">openaccess</a>
+            
+            <a class="badge badge-primary" href="/categories/peer-review">peer-review</a>
+            
+            <a class="badge badge-primary" href="/categories/plos">plos</a>
+            
+            <a class="badge badge-primary" href="/categories/preprints">preprints</a>
+            
+            <a class="badge badge-primary" href="/categories/product-development">product-development</a>
+            
+            <a class="badge badge-primary" href="/categories/product-management">product-management</a>
+            
+            <a class="badge badge-primary" href="/categories/programming">programming</a>
+            
+            <a class="badge badge-primary" href="/categories/publihsing">publihsing</a>
+            
+            <a class="badge badge-primary" href="/categories/publishing">publishing</a>
+            
+            <a class="badge badge-primary" href="/categories/rave">rave</a>
+            
+            <a class="badge badge-primary" href="/categories/recommendations">recommendations</a>
+            
+            <a class="badge badge-primary" href="/categories/research">research</a>
+            
+            <a class="badge badge-primary" href="/categories/retractions">retractions</a>
+            
+            <a class="badge badge-primary" href="/categories/sage">sage</a>
+            
+            <a class="badge badge-primary" href="/categories/scholarly-comms">scholarly-comms</a>
+            
+            <a class="badge badge-primary" href="/categories/scholarly-publishing">scholarly-publishing</a>
+            
+            <a class="badge badge-primary" href="/categories/science">science</a>
+            
+            <a class="badge badge-primary" href="/categories/slowness">slowness</a>
+            
+            <a class="badge badge-primary" href="/categories/software">software</a>
+            
+            <a class="badge badge-primary" href="/categories/software-carpentry">software-carpentry</a>
+            
+            <a class="badge badge-primary" href="/categories/ssrn">ssrn</a>
+            
+            <a class="badge badge-primary" href="/categories/stem">stem</a>
+            
+            <a class="badge badge-primary" href="/categories/stm">stm</a>
+            
+            <a class="badge badge-primary" href="/categories/strategy">strategy</a>
+            
+            <a class="badge badge-primary" href="/categories/systems">systems</a>
+            
+            <a class="badge badge-primary" href="/categories/techniques">techniques</a>
+            
+            <a class="badge badge-primary" href="/categories/technology">technology</a>
+            
+            <a class="badge badge-primary" href="/categories/threaded-publications">threaded-publications</a>
+            
+            <a class="badge badge-primary" href="/categories/threads">threads</a>
+            
+            <a class="badge badge-primary" href="/categories/tools">tools</a>
+            
+            <a class="badge badge-primary" href="/categories/transparency">transparency</a>
+            
+            <a class="badge badge-primary" href="/categories/trends">trends</a>
+            
+            <a class="badge badge-primary" href="/categories/ux">ux</a>
+            
+            <a class="badge badge-primary" href="/categories/visualisation">visualisation</a>
+            
+            <a class="badge badge-primary" href="/categories/web">web</a>
+            
+            <a class="badge badge-primary" href="/categories/wikidata">wikidata</a>
+            
+            <a class="badge badge-primary" href="/categories/wikipedia">wikipedia</a>
+            
+            <a class="badge badge-primary" href="/categories/writelatex">writelatex</a>
+            
+            <a class="badge badge-primary" href="/categories/yenow">yenow</a>
+            
+        </p>
+        
+    
+        
+    
+</section>
+    
+</aside>
+
+      </div>
+    </div>
+    
+
+    
+      
+
+
+
+
+
+
+<footer class="blog-footer w-100">
+    <nav class="navbar navbar-light bg-light">
+        <p class="w-100 text-center">Hugo template made with ❤ by <a href="https://github.com/Xzya">Xzya</a>, inspired by <a href="https://github.com/alanorth/hugo-theme-bootstrap4-blog">hugo-theme-bootstrap4-blog</a></p>
+        <p class="w-100 text-center"><a href="#">Back to top</a></p>
+    </nav>
+</footer>
+
+    
+
+    
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+  </body>
+</html>

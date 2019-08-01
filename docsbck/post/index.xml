@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ScholCommsProd</title>
+    <link>http://scholarly-comms-product-blog.com/post/</link>
+    <description>Recent content in Posts on ScholCommsProd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://scholarly-comms-product-blog.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>key questions about AI in the publishing knowledge industry</title>
+      <link>http://scholarly-comms-product-blog.com/2019/08/01/key_questions_about_ai_in_the_publishing_knowledge_industry_/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2019/08/01/key_questions_about_ai_in_the_publishing_knowledge_industry_/</guid>
+      <description>At the moment one thing that is front and centre in my thinking about AI and machine learning in publishing and the scholarly ecosystem is how to make the case for ROI for investment in the technology, and more specifically investing in making data actionable.
+Overall I think there is great promise for challenges like knowledge discovery and machine generated hypotheses, but there is massive potential for these technologies to also just make the quality of our work better, and to increase the value of our work by reducing and removing toil in the workplace.</description>
+    </item>
+    
+    <item>
+      <title>AGILE or agile?</title>
+      <link>http://scholarly-comms-product-blog.com/2018/11/29/agile_or_agile_/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/11/29/agile_or_agile_/</guid>
+      <description>Three links today looking at the state of agile as a software development practice.
+Flavours of Agile In Flavours of Agile Pat Kua briefly describes and rates a number of agile processes. There are a ton here, and loads that I’d not heard of. One of the key messages that I get from reading this is that “AGILE” as a fixed practice has been growing, especially within in enterprise, and perhaps not to the benefit of actually delivering or simplifying the delivery of complex processes.</description>
+    </item>
+    
+    <item>
+      <title>Some ruminations on software architecture and diagramming</title>
+      <link>http://scholarly-comms-product-blog.com/2018/11/22/some_ruminations_on_software_architecture_and_diagramming/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/11/22/some_ruminations_on_software_architecture_and_diagramming/</guid>
+      <description>So Pat Kua recently tweeted:
+UML failed so here we have AML (Arbitrary Modeling Language) https://t.co/BnbgC8ZHTD
+&amp;mdash; Pat Kua (@patkua) November 9, 2018&amp;lt;_a&amp;gt;&amp;lt;_blockquote&amp;gt; 
+and this got me thinking about the worries I&amp;rsquo;ve had about not doing &amp;ldquo;diagramming&amp;rdquo; right, but the above tweet led me to read a ton of really interesting posts on software architecting.
+Bottom line is, as with so many things, pick the artefact that fits the purpose and the audience.</description>
+    </item>
+    
+    <item>
+      <title>The state of retractions in the research literature.</title>
+      <link>http://scholarly-comms-product-blog.com/2018/10/26/the_state_of_retractions_in_the_research_literature._/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/10/26/the_state_of_retractions_in_the_research_literature._/</guid>
+      <description>The results below are oldish, but interesting around the rate of retractions in the scholarly literature, and there is currently a bit of a debate going on around retractions (e.g. What a massive database of retracted papers reveals about science publishing’s ‘death penalty’ | Science | AAAS
+Steen RG, Casadevall A, Fang FC (2013) Why Has the Number of Scientific Retractions Increased? PLoS ONE 8(7): e68397. doi:10.1371/journal.pone.0068397 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0068397
+https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0068397.g001
+ The increase in retracted articles appears to reflect changes in the behaviour of both authors and institutions.</description>
+    </item>
+    
+    <item>
+      <title>RAVE publishing technology conference 2018</title>
+      <link>http://scholarly-comms-product-blog.com/2018/10/24/rave_publishing_technology_conference_2018_/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/10/24/rave_publishing_technology_conference_2018_/</guid>
+      <description>I took some notes on some of the sessions at the conference yesterday.
+Dave Smith - object oriented publishing. Dave makes a good case here about how we should think about the future of scholarly publishing — in terms of objects that can be reformed based on the needs and competencies of the readers. He points out that while we do have in place good ontologies and domain models, our entire view of publishing and our publishing infrastructures, remain laggy and are a barrier to moving in this direction.</description>
+    </item>
+    
+    <item>
+      <title>Belmont Forum Round Table - data accessibility statements</title>
+      <link>http://scholarly-comms-product-blog.com/2018/10/19/belmont_forum_round_table_-_data_accessibility_statements_/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/10/19/belmont_forum_round_table_-_data_accessibility_statements_/</guid>
+      <description>Yesterday I attended a round table discussion hosted by the Belmont Forum about the release of their position on data accessibility statements and digital objects management plans. (It’s a bit of a mouthful, but the reason is that they are aiming to be clear and comprehensive around what they are asking to make it easier for researchers, publishers and other stakeholders to get to compliance around this policy.)
+You can read their position paper — Draft DAS Statement and Policy for October 2018 Plenary - Google Docs.</description>
+    </item>
+    
+    <item>
+      <title>One Two Four All - a technique for getting insights from groups</title>
+      <link>http://scholarly-comms-product-blog.com/2018/10/18/one_two_four_all_-_a_technique_for_getting_insights_from_groups/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/10/18/one_two_four_all_-_a_technique_for_getting_insights_from_groups/</guid>
+      <description>I’ve started working my way through The Surprising Power of Liberating Structures - a hand book of techniques for collaborative work.
+So far I’ve tried one technique from the book - one two four all.
+The idea is super simple and is an alternative to open brainstorming or post-it note sessions. Before describing the technique with a few comments, I’ll just point out one of the weaknesses of a group work activity like a retrospective.</description>
+    </item>
+    
+    <item>
+      <title>blockchain in STEM - part 3</title>
+      <link>http://scholarly-comms-product-blog.com/2018/07/04/blockchain_in_stem_-_part_3__/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/07/04/blockchain_in_stem_-_part_3__/</guid>
+      <description>Over the last few weeks I’ve been writing up some thoughts on the uses of blockchain in STEM.
+The first post I gave a general overview of my understand of blockchain.
+In the second post I looked at potential use cases of blockchain in STEM, and came up somewhat short.
+That said, a lot, really, a lot of very smart people are talking about this, and doing things in this space, so in this post I wanted to look at a few of those efforts and see how their thinking lines up or diverges from mine.</description>
+    </item>
+    
+    <item>
+      <title>testing a new form of peer review - again</title>
+      <link>http://scholarly-comms-product-blog.com/2018/07/04/testing_a_new_form_of_peer_review_-_again_/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/07/04/testing_a_new_form_of_peer_review_-_again_/</guid>
+      <description>eLife is trying another experiment in peer review. When they launched back in 2012 they introduced a form of peer review known as consultative peer review. They are now looking at a new iteration on the peer review idea.
+Trials in how peer review is done are quite rare, so I think this is going to be interesting to keep track of.
+The new idea is that once an article has been accepted for full review by one of the editors, the journal is going to publish the article, along with all comments.</description>
+    </item>
+    
+    <item>
+      <title>notes on notes on “crossing the chasam”</title>
+      <link>http://scholarly-comms-product-blog.com/2018/07/03/notes_on_notes_on_crossing_the_chasam/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/07/03/notes_on_notes_on_crossing_the_chasam/</guid>
+      <description>The following is not about scholarly communication, but is a post about one tool from the world of product development, how to think about marketing your product or service so that you can cross the chasm. Academic researchers are simultaneously the most innovative and conservative of users.
+There is so much pain in the process of academic research that there is a constant re-invention and invention of tools and proceeds, but at the same time there is also a huge time pressure, so for any new tool, technique or service to get wide spread traction is really hard in the academic market place.</description>
+    </item>
+    
+    <item>
+      <title>Distill is dedicated to making machine learning clear and dynamic</title>
+      <link>http://scholarly-comms-product-blog.com/2018/06/29/distill_is_dedicated_to_making_machine_learning_clear_and_dynamic/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/06/29/distill_is_dedicated_to_making_machine_learning_clear_and_dynamic/</guid>
+      <description>Distill is an experiment in bringing interactive documents and scholarly documents together. I&amp;rsquo;m often asked what the future of publishing might look like, and were we to embrace what the web offers it might look like distill.
+Two things though, make it look like a nice product. Right now paper flow into this journal is very low, and secondly they have advertised a large prize to attract work in this format.</description>
+    </item>
+    
+    <item>
+      <title>Jobs to be Done A Case Study in the NHS | Digital transformation blog</title>
+      <link>http://scholarly-comms-product-blog.com/2018/06/29/jobs_to_be_done_a_case_study_in_the-nhs__digital_transformation_blog/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/06/29/jobs_to_be_done_a_case_study_in_the-nhs__digital_transformation_blog/</guid>
+      <description>This is a great post on using the jobs to be done framework. There are two specific enhancements that are discussed - how to weight those jobs, and how to use granularity of the jobs to aid the design process (less granularity gives more freedom in the design phase).
+The authors wanted to use surveys to get a sense of importance of the under served needs, but in the end had to resort to a simple variant of card sorting.</description>
+    </item>
+    
+    <item>
+      <title>blockchain in STEM - part 2</title>
+      <link>http://scholarly-comms-product-blog.com/2018/06/26/blockchain_in_stem_-_part_2/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/06/26/blockchain_in_stem_-_part_2/</guid>
+      <description>In my last post I gave an overview of what blockchain is (while also confusing House of Pain and Cypress Hill. (These posts are probably best read whilst listening to either of those songs).
+In this post I’m going to look at potential use cases for blockchain in STEM and scholarly publishing.
+Scholarly communications use cases. When thinking about any use cases in STEM I think the questions we need to answer are:</description>
+    </item>
+    
+    <item>
+      <title>OA negotiation manifesto from university of California.</title>
+      <link>http://scholarly-comms-product-blog.com/2018/06/21/oa_negotiation_manifesto_from_university_of_california./</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/06/21/oa_negotiation_manifesto_from_university_of_california./</guid>
+      <description>This is a really interesting initiative from the university of California. If the scholarly landscape looked like this then publishers would have to generate revenue entirely from services and derivative open products, rather than from content licensing.
+Most of the points is the manifesto are fairly unsurprising but two points stood out as interesting to me.
+Point 10 asks for all metadata to be made available including usage metadata. Are Counter reports sufficient for this, or is anything else needed?</description>
+    </item>
+    
+    <item>
+      <title>Preprints growth rate ten times higher than journal articles - Crossref</title>
+      <link>http://scholarly-comms-product-blog.com/2018/06/21/preprints_growth_rate_ten_times_higher_than_journal_articles_-_crossref/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/06/21/preprints_growth_rate_ten_times_higher_than_journal_articles_-_crossref/</guid>
+      <description>Great post looking into stats on preprints in crossref. Headline takeaways, preprint registration into crossref is 10x that of article growth, but it&amp;rsquo;s hard to read a lot into that as the absolute numbers are so different at the moment 2.4M per month (published articles) vs 10k per month (preprints). There is also some interesting data on preprint citations, preprint citations come in at best at a level of about 10% of the citations to the subsequently published article.</description>
+    </item>
+    
+    <item>
+      <title>Scholia</title>
+      <link>http://scholarly-comms-product-blog.com/2018/06/21/scholia/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/06/21/scholia/</guid>
+      <description>Scholia is an amazing interface into scholarly information held inside id WikiData. It includes information about authors, articles and a very large chunk of the citation graph. You can see an article pate here: https://tools.wmflabs.org/scholia/work/Q24595162. The tool extracts topic information on articles, shows cites and citing articles (and how many citations each of these articles has)
+https://tools.wmflabs.org/scholia/</description>
+    </item>
+    
+    <item>
+      <title>Blockchain in STEM - part 1</title>
+      <link>http://scholarly-comms-product-blog.com/2018/06/19/blockchain_in_stem_-_part_1/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/06/19/blockchain_in_stem_-_part_1/</guid>
+      <description>A lot of people are taking about “blockchain for science” and “blockchain for publishing”, but I’m skeptical. Some of the people taking about this are really smart, so I could be wrong.
+If we think of scholarly publishing as being like the connective tissue of science, and we accept that this idea is gaining purchase within our community that we have to realise that we are looking at a case of</description>
+    </item>
+    
+    <item>
+      <title>Digital Radar - STM landscape</title>
+      <link>http://scholarly-comms-product-blog.com/2018/06/07/digital_radar_-_stm_landscape/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/06/07/digital_radar_-_stm_landscape/</guid>
+      <description>Thoughtworks have created a tool to allow you to build your own &amp;ldquo;Digital Radar&amp;rdquo;. The one linked to here was put together a few years ago by people at the BMJ to look at the technology landscape in STM publishing (There are some really interesting things in there in some interesting locations).
+https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1zQPRcn76XHKxex7ytdmTKC9nXMPPK0Tv0-hMlSY6xVU%2Fpubhtml</description>
+    </item>
+    
+    <item>
+      <title>Strategy in a Lean Enterprise - lean value tree.</title>
+      <link>http://scholarly-comms-product-blog.com/2018/06/07/strategy_in_a_lean_enterprise_-_lean_value_tree./</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/06/07/strategy_in_a_lean_enterprise_-_lean_value_tree./</guid>
+      <description>I&amp;rsquo;ve been working with lean value tree as a framework for some time now, but there are few online resources about this. The linked presentation does a great job of giving an overview of the tool. In particular I like how they call out the need to describe the promise of value to the customer, something that we could definitely do more of.
+Another presentation on the same topic is this one: https://www.</description>
+    </item>
+    
+    <item>
+      <title>scholarly comms product meetup - V2 - announcement</title>
+      <link>http://scholarly-comms-product-blog.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</guid>
+      <description>Back in November of last year we ran the first scholarly comms meetup with a focus on product management. There are lots of great meetups out there for people who work in scholarly comms, but we felt that there might be an unscratched need to have a meeting where the focus was not explicitly on community building, or on new technologies, or on public outreach, or on new trends and technologies, but solely on the product management work that is required to develop these kinds of tools.</description>
+    </item>
+    
+    <item>
+      <title>The robots are coming, the promise and perils of AI - questions</title>
+      <link>http://scholarly-comms-product-blog.com/2017/11/09/the_robots_are_coming_the_promise_and_perils_of_ai_-_questions/</link>
+      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2017/11/09/the_robots_are_coming_the_promise_and_perils_of_ai_-_questions/</guid>
+      <description>I&amp;rsquo;m at the Charleston conference, my first time, and we had a panel discussion this morning talking about AI.
+On the panel were:
+Heather Staines Director of Partnerships, Hypothes.is
+Peter Brantley Director of Online Strategy, UC Davis
+Elizabeth Caley Chief of Staff, Meta, Chan Zuckerberg Initiative
+Ruth Pickering Co-founder and Chief Strategy Officer, Yewno
+and myself. It was a pleasure to be on a panel with these amazing people.</description>
+    </item>
+    
+    <item>
+      <title>Futurepub10</title>
+      <link>http://scholarly-comms-product-blog.com/2017/03/16/future-pub-10/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2017/03/16/future-pub-10/</guid>
+      <description>This week I attended futurepub10, I love these events, I&amp;rsquo;ve been to a bunch, and the format of short talks, and lots of time to catchup with people is just great.
+# A new Cartography of Collaboration - Daniel Hook, CEO Digital Science (work with Ian Calvert).
+Digital science have produced a report on collaboration, and this talk was covering one of chapters from that.
+I was interested to see what the key takeaways are that you can describe in a five minute talk.</description>
+    </item>
+    
+    <item>
+      <title>Three posts about product development</title>
+      <link>http://scholarly-comms-product-blog.com/2017/03/15/three_posts_product_dev/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2017/03/15/three_posts_product_dev/</guid>
+      <description>I&amp;rsquo;m catching up on some reading at the moment. Trying to make headway on some other work while jet lagged is proving a challenge. Anyway, here are a couple of nice posts about product development that popped up in my feed (hat tip to Mind the Product Weekly Newsletter.
+## What do people do in the spaces in between?
+When thinking about what people do with your product, also think about what they don’t do, and how to help them get to where they are going.</description>
+    </item>
+    
+    <item>
+      <title>PLOS are looking for a new CEO</title>
+      <link>http://scholarly-comms-product-blog.com/2017/01/10/plos-ceo/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2017/01/10/plos-ceo/</guid>
+      <description>So I hear that PLOS are looking for a new CEO. They are making the process fairly open, so if you are interested you can read more here.
+I got to thinking about some of the challenges and opportunities facing PLOS over the weekend. Over the years I&amp;rsquo;ve gotten to know a lot of PLOS folk, and I think it&amp;rsquo;s an amazing organisation. It has proved the viability of open access, and their business model is being copied by a lot of other publishers.</description>
+    </item>
+    
+    <item>
+      <title>Reverse DOI lookups with Crossref</title>
+      <link>http://scholarly-comms-product-blog.com/2017/01/10/crossref-reverse-lookups/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2017/01/10/crossref-reverse-lookups/</guid>
+      <description>Today I had a need to think about how to do a reverse lookup of a formatted citation to find a DOI.
+@CrossrefOrg helped out and pointed me to the reverse api endpoint. It workes like this:
+http://api.crossref.org/reverse
+Created a json payload file “citation.json” formatted as follows:
+[ &amp;quot;	Curtis, J. R., Wenrich, M. D., Carline, J. D., Shannon, S. E., Ambrozy, D. M., &amp;amp; Ramsey, P. G. (2001). Understanding physicians’ skills at providing end-of-life care: Perspectives of patients, families, and health care workers.</description>
+    </item>
+    
+    <item>
+      <title>What we mean when we talk about preprints</title>
+      <link>http://scholarly-comms-product-blog.com/2016/12/13/when-we-talk-about-preprints/</link>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2016/12/13/when-we-talk-about-preprints/</guid>
+      <description>Cameron Neylon, Damian Pattinson, Geoffrey Bilder, and Jennifer Lin have just posted a cracker of a preprint onto biorxiv.
+On the origin of nonequivalent states: how we can talk about preprints
+ Increasingly, preprints are at the center of conversations across the research ecosystem. But disagreements remain about the role they play. Do they &amp;ldquo;count&amp;rdquo; for research assessment? Is it ok to post preprints in more than one place? In this paper, we argue that these discussions often conflate two separate issues, the history of the manuscript and the status granted it by different communities.</description>
+    </item>
+    
+    <item>
+      <title>SSRN and Elsevier</title>
+      <link>http://scholarly-comms-product-blog.com/2016/06/19/ssrn-elsevier/</link>
+      <pubDate>Sun, 19 Jun 2016 22:53:47 +0100</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2016/06/19/ssrn-elsevier/</guid>
+      <description>So Elsevier has bought SSRN, a private company that fills a role for many academics that is an exemplar of the power and utility of a true commons for scholarship.
+There is much wringing of hands, gnashing of teeth, and the obligatory call for the community to pony up and create a true open piece of infrastructure.
+Well, it turns out building things is pretty hard, and building things that people will actually use is even harder.</description>
+    </item>
+    
+    <item>
+      <title>A(peeling) Peer Review, a proposal.</title>
+      <link>http://scholarly-comms-product-blog.com/2015/05/17/peer-review-idea/</link>
+      <pubDate>Sun, 17 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2015/05/17/peer-review-idea/</guid>
+      <description>eLife&amp;rsquo;s peer review process is really good. One of the key attributes of this is that reviewers are not blind to one another, and they have to consult with one another. This largely removes the third reviewer problem. We also publish the decision letters and the author responses to the decision letter.
+Reviewers have the option of revealing themselves to authors. As with most review systms our reviewers know who the authors are.</description>
+    </item>
+    
+    <item>
+      <title>FuturePub Jan 2015 - Lens Next</title>
+      <link>http://scholarly-comms-product-blog.com/2015/01/28/futurepub4-lens-next/</link>
+      <pubDate>Wed, 28 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2015/01/28/futurepub4-lens-next/</guid>
+      <description>On 2015-01-27 I gave one of the short talks at the FuturePub event. My slidedeck is here. I wanted to give a quick update on where the Lens viewer for research articles is heading. Lens is a great platform for experimentation, and we have been iterating on some ideas towards the end of 2014 that have now made it into the 2.0 release.
+The main update is that Lens can now be configured to accept information from a 3rd party source and display that information in the right hand resources pane.</description>
+    </item>
+    
+    <item>
+      <title>thoughts on the ERC data workshop</title>
+      <link>http://scholarly-comms-product-blog.com/2014/09/24/erc-workshop-thought/</link>
+      <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2014/09/24/erc-workshop-thought/</guid>
+      <description>On Thursday and Friday of last week I attended a European Research Council workshop on managing research data. It was well attended with about 130 participants brining views from across the academic disciplines. I&amp;rsquo;ve blogged my raw notes from day one and day two. In this post I reflect on the points I noticed that were raised over the two days. People have been talking about the increasing importance of research information for many years now, and a hope was raised in the opening comments that we might be able to provide solutions to the problems posed by the issues of research data, by the end of the workshop.</description>
+    </item>
+    
+    <item>
+      <title>ERC data management workshop, day 1</title>
+      <link>http://scholarly-comms-product-blog.com/2014/09/21/erc-workshop-day1/</link>
+      <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2014/09/21/erc-workshop-day1/</guid>
+      <description>initial thoughts about the workshop.  Opening remarks. Setting the scene. Sabrina Leonelli - the epistemology of data-intesive science. Dr Hans Pfeiffenberger - Open Science &amp;ndash; opportunities, challenges &amp;hellip; @datasciencefeed. Bernd Pulverer - finding and accessing the data behind figures. Dr Roar Skålin - Norwegian researchers want to share, but are afraid of jeopardising their career. Summary of points from the scene setting. Afternoon breakout session - Life Sciences.</description>
+    </item>
+    
+    <item>
+      <title>ERC data management workshop, day 2</title>
+      <link>http://scholarly-comms-product-blog.com/2014/09/21/erc-workshop-day2/</link>
+      <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2014/09/21/erc-workshop-day2/</guid>
+      <description>Life sciences breakout - key points. Physical sciences breakout - key points. Humanities breakout - key points. Open discussion on morning presentations. Breakout session on incentives.  Paul Ayris - Implementing the Future: the LERU roadmap for research data. Sünje Dallmeier‐Tiessen - Incentives for Open Science Attribution, Recognition, Collaboration. Veerle Van den Eynden and Libby Bishop - Incentives for sharing research data, evidence from an EU study. Open discussion after breakout session.</description>
+    </item>
+    
+    <item>
+      <title>FuturePub - future of publishing event, hosted by NESTA and WriteLaTeX</title>
+      <link>http://scholarly-comms-product-blog.com/2014/05/30/future-pub2/</link>
+      <pubDate>Fri, 30 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2014/05/30/future-pub2/</guid>
+      <description>This is the second #futurepub event that I&amp;rsquo;ve been to. I also attended the last one
+The event was hosted by Nesta. Nesta have just launched the &amp;ldquo;new longitude&amp;rdquo; prize - which looks pretty interesting. There were six rapid fire talks, and I found the presentation format to be excellent. As with the previous event, this one was organised by the WriteLaTeX guys, and I&amp;rsquo;d just like to extend a big thanks to them for again putting on a great little event.</description>
+    </item>
+    
+    <item>
+      <title>How to create threads between publications and clinical trial registraion numbers</title>
+      <link>http://scholarly-comms-product-blog.com/2014/01/31/threaded-publications-discussion/</link>
+      <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2014/01/31/threaded-publications-discussion/</guid>
+      <description>Yesterday I attended an interesting meeting to discuss how to improve the connection between clinical trial registration ids and publications. My raw notes from the meeting follow. This is being discussed as publication threads, but the idea discussed here stands apart from the kind of publication threads that the endcode project worked on.
+attendees ATTENDEES - organisations: eLife f1000 PLOS BMC Springer lancet BMJ crossref
+attendees - people Geoffrey Bilder, CrossRef, Director of Strategic Initiatives Rachael Lammey, CrossRef, Product Manager CrossMark Daniel Shanahan, BioMed Central, Associate Publisher Tim Stevenson, BioMed Central, Product Manager Deborah Kahn, BioMed Central, EVP Publishing Caroline Black, BioMed Central, Senior Publisher Katherine Barton, BMJ, Operations Manager Josie Breen, BMJ, Head of Editorial Production Isaac Jones, BMJ, Production Manager Ian Mulvany, eLife, Head of Technology Iain Hrynaszkiewicz, F1000, Outreach Director Karen Rowlett, F1000Research, Managing Editor Helene Faure, ISRCTN Database Manager Hannah Jones, The Lancet, Managing Editor Dan Lewsley, The Lancet, Head of Production Joseph Brown, PLoS, Senior Editorial Manager Volker Boeing, Springer, Director, Process and Content Management Mirjam Kessler, Springer, Bibliographic Metadata Manager</description>
+    </item>
+    
+    <item>
+      <title>WriteLateX/Overleaf launch event at the British Library</title>
+      <link>http://scholarly-comms-product-blog.com/2014/01/18/writelatex-overleaf-launch/</link>
+      <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2014/01/18/writelatex-overleaf-launch/</guid>
+      <description>Last Thursday I attended the launch event for OverLeaf. The event was composed of a set of very short talks, followed by a good chance to chat to people. It was a pretty nice evening.
+Dr Bibiana Campos Seijo - MRSC - magazines publisher and editor of chemistry world. Science is changing, publising is changing, a lot of this is being driven by technology. There is information overlaod. Publishers need to try to provide solutions to these issues.</description>
+    </item>
+    
+    <item>
+      <title>advice on publishing research online</title>
+      <link>http://scholarly-comms-product-blog.com/2014/01/08/advice-on-publishing-online/</link>
+      <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2014/01/08/advice-on-publishing-online/</guid>
+      <description>I have posted this post as a comment on the thread over at software carpentry in answer to the question What do we teach about writing/publishing papers in a webby world?
+I ended up writing a bit more than I expected, so here are the main peices of advice:
+tl;dr:
+- use a reference management tool
+- try to find the fastest venue to publish in
+- try to publish in an OA journal</description>
+    </item>
+    
+    <item>
+      <title>STM innovations seminar, London, 2013</title>
+      <link>http://scholarly-comms-product-blog.com/2013/12/04/stm-innovations-2013/</link>
+      <pubDate>Wed, 04 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2013/12/04/stm-innovations-2013/</guid>
+      <description>Today I&amp;rsquo;m at the STM innovations seminar. The twitter tag for today is #ukinno. The program is online.
+I&amp;rsquo;m going to take a light approach to blogging today, I&amp;rsquo;ll probably hang out mostly on Twitter.
+## 9.35 The Research Data Revolution, Sayeed Choudhury, Associate Dean for Research Data Management, Johns Hopkins University &amp;gt; Data has become a major topic of interest from all sectors of society with headlines such as “Data is the new oil” to assertions from McKinsey that data is the fourth factor of production.</description>
+    </item>
+    
+    <item>
+      <title>STM brainstorming session - 2013</title>
+      <link>http://scholarly-comms-product-blog.com/2013/12/03/stm-brainstorming-meeting/</link>
+      <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2013/12/03/stm-brainstorming-meeting/</guid>
+      <description>Just attended the STM brainstroming session. I&amp;rsquo;ll update these notes in due course, and fix spelling issues, but I wanted to get the post live first.
+Notes I&amp;rsquo;ll just mention the things that I found interesting. ## Round1
+Science Gists get a mention, yay!!
+Google scholar library gets a mention.
+Visualising data as maps is mentioned, mentions that there are no standards
+Howard mentions much richer tagging in the article, and upfront semantic tagging.</description>
+    </item>
+    
+    <item>
+      <title>PLOS ALM 13 day 2</title>
+      <link>http://scholarly-comms-product-blog.com/2013/10/17/plos-alm-13-day2/</link>
+      <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2013/10/17/plos-alm-13-day2/</guid>
+      <description>Connecting ALM and Literature As I took part in the first session I don&amp;rsquo;t have many notes from it. I&amp;rsquo;ve posted the slides from my talk, and I&amp;rsquo;ll write up some more on those in due course. For me the standout talk of the session, if not the entire meeting, was from Jevin West who talked about using networked ranked data to provide recommendations. The algorithms his group are working on are being tested on [SSRN][ssrn], and will be rolled out to PLOS.</description>
+    </item>
+    
+    <item>
+      <title>PLOS ALM 13, day1</title>
+      <link>http://scholarly-comms-product-blog.com/2013/10/16/plos-aml-13-day1/</link>
+      <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2013/10/16/plos-aml-13-day1/</guid>
+      <description>## Cameron Neylon - Introduction &amp;amp; Welcome
+Interesting - this is the first PLOS ALM meeting that is a &amp;ldquo;normal&amp;rdquo; scheduled presentation. Time is going to be tight.
+Pete Binfield ALM: Looking back, moving forward A large chunk of OA does not select for impact - this is why ALMs are key for this space. PLOS didn&amp;rsquo;t invent ALMs - Frontiers were doing it a little ahead of PLOS&amp;rsquo;s launch.</description>
+    </item>
+    
+    <item>
+      <title>Cambridge usability group - UX and agile</title>
+      <link>http://scholarly-comms-product-blog.com/2013/09/30/cug-agile-ux/</link>
+      <pubDate>Mon, 30 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2013/09/30/cug-agile-ux/</guid>
+      <description>Sophie Freiermuth(@wickedgeekie)) from Baguette UX gave tonight&amp;rsquo;s talk on how lessons learnt from operating as a UXer within an agile environment. I thought it was a great talk. When at Mendeley we always faced the problem of trying to square the challenge to fitting an inherently creative process into the systems that emerged while we attempted to adopt agile processes, in my time there we learnt a lot, we had some success and some areas where we obviously needed to learn more, so I was delighted to hear a very thoughtful presentation from the perspective of someone who it seems has worked with quite a few teams implementing agile in a variety of flavours.</description>
+    </item>
+    
+    <item>
+      <title>EC consultation on Open Data - a report.</title>
+      <link>http://scholarly-comms-product-blog.com/2013/07/02/ec-open-data-consultation-report/</link>
+      <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2013/07/02/ec-open-data-consultation-report/</guid>
+      <description>This is a report on todays consultation on open data that was help by the EC. The notes are long, so I have put my conclusions and general comments at the start.
+General comments There was not much disagreement throughout the day. There were repeated calls for the need to incentivise researchers to engage in data sharing, but not too many concrete proposals on how to do this. It does seem from my perspective that libraries could do an amazing job here, but that will depend on to which extent these libraries have deep technical expertise.</description>
+    </item>
+    
+    <item>
+      <title>EC consultation on Open Data - my presentation.</title>
+      <link>http://scholarly-comms-product-blog.com/2013/07/02/ec-open-data-consultation-our-view/</link>
+      <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2013/07/02/ec-open-data-consultation-our-view/</guid>
+      <description>The following is the written representation that I made to the EC hearing on Open Data on behalf of Co-Action publishers, Copernicus Publications, eLife, F1000 Research, FigShare, Frontiers, Open Books Publishers, PeerJ, the Public Library of Science, Ubiquity Press and Bloomsbury Qatar Foundation Journals (QScience). I had a five minute slot to present, and the key recommendations at the end of this written response formed the basis of that presentation.</description>
+    </item>
+    
+    <item>
+      <title>Some thoughts on the Taylor and Francis Survey.</title>
+      <link>http://scholarly-comms-product-blog.com/2013/04/27/tf-survey/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2013/04/27/tf-survey/</guid>
+      <description>I took a look at the T&amp;amp;F survey with interest. I&amp;rsquo;m also very aware of the concerns and confusions that exist around licensing. I&amp;rsquo;m also aware of the &amp;ldquo;one size doesn&amp;rsquo;t fit all&amp;rdquo; argument.
+I&amp;rsquo;ll address the T&amp;amp;F survey first, and then I&amp;rsquo;ll briefly discuss CC-BY pros and cons, purely from the point of view of my own understanding of these issues - I might be very wrong on this.</description>
+    </item>
+    
+    <item>
+      <title>ENCODE - an example of open publication and data integration.</title>
+      <link>http://scholarly-comms-product-blog.com/2013/01/30/euan-birney-data-publishing-talk-plos-elife/</link>
+      <pubDate>Wed, 30 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2013/01/30/euan-birney-data-publishing-talk-plos-elife/</guid>
+      <description>On Monday the 14th of January we met at the PLOS offices in Cambridge to hear a talk from Euan Birney on lessons learned from publishing data rich publications though the encode project.
+This was the first time that Euan was far less worried about the print, and far more worried about how well the online version was going to work.
+Dimensions of the project  5 TeraBases 1715 times the size of the Human Genome 3k experiments 410 authors on the main paper 6 high profile papers ~35 companion papers  The output should not be thought of as papers, but as the raw data.</description>
+    </item>
+    
+    <item>
+      <title>Going for gold, open access debate.</title>
+      <link>http://scholarly-comms-product-blog.com/2012/10/02/icoa-going-for-gold/</link>
+      <pubDate>Tue, 02 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2012/10/02/icoa-going-for-gold/</guid>
+      <description>Update, audio of the meeting is now available on figshare
+Last Thursday I attended the SciCommForum debate &amp;ldquo;Open access: going for gold?&amp;rdquo; held at Imperial College. Below are my notes from the event. The notes are fairly raw, and not comprehensive.
+The debate is going to be looking at open access in the context of the RCUK policy, it is being hosted by Richard Van Noorden (RVN), Mark Thorley (MT) from RCUK, and Stephen Curry (SC).</description>
+    </item>
+    
+    <item>
+      <title>The slow web, more thoughtful experiences.</title>
+      <link>http://scholarly-comms-product-blog.com/2012/08/22/the-slow-web/</link>
+      <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2012/08/22/the-slow-web/</guid>
+      <description>I&amp;rsquo;ve been concerned for a few years about the flow of data that we are producing, and how to handle the angst of not being able to keep up with everything, ever. I think it started when I became a very heavy user of google reader back in 2006 or so.
+There is little doubt that the web is moving more in this direction, Anil Dash recently called for people to stop creating web pages, and to start creating only streams.</description>
+    </item>
+    
+    <item>
+      <title>The cost of production</title>
+      <link>http://scholarly-comms-product-blog.com/2012/07/12/the-cost-of-production/</link>
+      <pubDate>Thu, 12 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2012/07/12/the-cost-of-production/</guid>
+      <description>Last week an interesting discussion on the cost of copy editing popped up over on Stephen Curry&amp;rsquo;s blog. In addition the comment thread at the recent Science editorial seems to make this post somewhat timely. I used to manage the copy editing of a good portion of physical science related content from Springer from 2002 &amp;ndash; 2005. I&amp;rsquo;m also currently in the process of setting up a new online-only journal.</description>
+    </item>
+    
+    <item>
+      <title>Some Thoughts on Peer Review and Altmetrics</title>
+      <link>http://scholarly-comms-product-blog.com/2012/06/18/some-thought-on-peerreview-and-altmetrics/</link>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2012/06/18/some-thought-on-peerreview-and-altmetrics/</guid>
+      <description>The upcoming altmetrics meeting, and a submitted abstract by Kelli Barr prompted me to note down some of my own thoughts on peer review and altmetrics. I would love to make it over to the meeting, but with just a few days now before my first child is born, it ain&amp;rsquo;t gonna happen.
+I&amp;rsquo;ve not read Kelly&amp;rsquo;s paper, but after reading the abstract my take home message from it would be something along the lines of &amp;ldquo;don&amp;rsquo;t replace peer review with altmetrics because you will just replace one bias with another, and at least with peer review the bias is contained within the academic community&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Augmented Peer Review</title>
+      <link>http://scholarly-comms-product-blog.com/2012/06/17/proposal-on-peer-review/</link>
+      <pubDate>Sun, 17 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2012/06/17/proposal-on-peer-review/</guid>
+      <description>Last year I was asked to contribute to a special issue on the evolution of peer review. I got quite excited about doing this, but then realised that I really didn&amp;rsquo;t have the time to write a paper. I&amp;rsquo;m not a practicing academic, I build products, and while at Mendeley I really had far too much on my plate to find the time to write up a paper. However the topic does interest me, and I am a strong believer that web scale technologies can help with the scientific communication process though a large number of avenues.</description>
+    </item>
+    
+    <item>
+      <title>Hindawi have an awesome reviewing system.</title>
+      <link>http://scholarly-comms-product-blog.com/2011/10/06/hindawi-reviewing/</link>
+      <pubDate>Thu, 06 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2011/10/06/hindawi-reviewing/</guid>
+      <description>Hindawi publishers is a really interesting outfit. They are an open access only publisher based in Egypt. They combing a fantastic use of technology with the ability to afford a large amount of human curation over the data that they use to streamline their publication and reviewing systems.
+One of their publishing vehicles is called the International Scholarly Research Network and at the recent coasp conference Paul Peters gave an overview of how their peer review system works, I think it&amp;rsquo;s genius.</description>
+    </item>
+    
+    <item>
+      <title>Megajournals</title>
+      <link>http://scholarly-comms-product-blog.com/2011/10/03/megajournals/</link>
+      <pubDate>Mon, 03 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2011/10/03/megajournals/</guid>
+      <description>The idea of megajournals had not really formalised in my head before, but at the COASP meeting the talk was all about &amp;ldquo;Megajournals&amp;rdquo;. [PLoSOne][plosone] is the archetype for this kind of journal, and it had not really struck me before as a huge revolution in the publishing industry, but after listening to a couple of days worth of talks on the topic I&amp;rsquo;m convincible.
+Megajournals are so called because they are structured to be able to publish many more articles than has been the normal practice with traditional journals.</description>
+    </item>
+    
+    <item>
+      <title>The rude health of Open Access Publishing.</title>
+      <link>http://scholarly-comms-product-blog.com/2011/10/03/coasp-impressions/</link>
+      <pubDate>Mon, 03 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2011/10/03/coasp-impressions/</guid>
+      <description>TL;DR OA publishing is maturing with a scalable business model that all the big publishers are jumping all over. Money will be made (but less than before), and more content will be more open. The poor lamentable nay-sayers who carp on unheard in the darkness will be forgotten, and their Cassandra-like predictions will fade to be recalled as little more than the mutterings of fools (OK, that last bit is probably opinion).</description>
+    </item>
+    
+    <item>
+      <title>Turning the Physics ArXiV into an Open Peer Review System.</title>
+      <link>http://scholarly-comms-product-blog.com/2011/01/04/arxiv.org-open-peer-review-proposal/</link>
+      <pubDate>Tue, 04 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2011/01/04/arxiv.org-open-peer-review-proposal/</guid>
+      <description>Axel Boldt posted an interesting short paper discussing how to turn the physics ArXiV into an open peer review system. It&amp;rsquo;s a short read, about three pages, but if you are familiar with the problems around peer review then you can just jump to part three of the paper which is a little under a page.
+The solution proposed is to create a new role of editor on the ArXiV, and allow anyone to propose their paper for review.</description>
+    </item>
+    
+  </channel>
+</rss>

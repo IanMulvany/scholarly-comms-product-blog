@@ -5,6 +5,8 @@ theme = "hugo-bootstrap"
 sectionPagesMenu = "main"
 publishDir = "docs"
 googleAnalytics = "UA-120951226-1"
+[permalinks]
+  posts = "/:year/:month/:title/"
 [Site]
   Home = "scholarly-comms-product-blog.com"
 

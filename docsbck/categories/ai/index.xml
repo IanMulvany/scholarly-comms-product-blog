@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ai on ScholCommsProd</title>
+    <link>http://scholarly-comms-product-blog.com/categories/ai/</link>
+    <description>Recent content in Ai on ScholCommsProd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://scholarly-comms-product-blog.com/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>key questions about AI in the publishing knowledge industry</title>
+      <link>http://scholarly-comms-product-blog.com/2019/08/01/key_questions_about_ai_in_the_publishing_knowledge_industry_/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2019/08/01/key_questions_about_ai_in_the_publishing_knowledge_industry_/</guid>
+      <description>At the moment one thing that is front and centre in my thinking about AI and machine learning in publishing and the scholarly ecosystem is how to make the case for ROI for investment in the technology, and more specifically investing in making data actionable.
+Overall I think there is great promise for challenges like knowledge discovery and machine generated hypotheses, but there is massive potential for these technologies to also just make the quality of our work better, and to increase the value of our work by reducing and removing toil in the workplace.</description>
+    </item>
+    
+    <item>
+      <title>Distill is dedicated to making machine learning clear and dynamic</title>
+      <link>http://scholarly-comms-product-blog.com/2018/06/29/distill_is_dedicated_to_making_machine_learning_clear_and_dynamic/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/06/29/distill_is_dedicated_to_making_machine_learning_clear_and_dynamic/</guid>
+      <description>Distill is an experiment in bringing interactive documents and scholarly documents together. I&amp;rsquo;m often asked what the future of publishing might look like, and were we to embrace what the web offers it might look like distill.
+Two things though, make it look like a nice product. Right now paper flow into this journal is very low, and secondly they have advertised a large prize to attract work in this format.</description>
+    </item>
+    
+    <item>
+      <title>The robots are coming, the promise and perils of AI - questions</title>
+      <link>http://scholarly-comms-product-blog.com/2017/11/09/the_robots_are_coming_the_promise_and_perils_of_ai_-_questions/</link>
+      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2017/11/09/the_robots_are_coming_the_promise_and_perils_of_ai_-_questions/</guid>
+      <description>I&amp;rsquo;m at the Charleston conference, my first time, and we had a panel discussion this morning talking about AI.
+On the panel were:
+Heather Staines Director of Partnerships, Hypothes.is
+Peter Brantley Director of Online Strategy, UC Davis
+Elizabeth Caley Chief of Staff, Meta, Chan Zuckerberg Initiative
+Ruth Pickering Co-founder and Chief Strategy Officer, Yewno
+and myself. It was a pleasure to be on a panel with these amazing people.</description>
+    </item>
+    
+  </channel>
+</rss>

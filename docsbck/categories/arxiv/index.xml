@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arxiv on ScholCommsProd</title>
+    <link>http://scholarly-comms-product-blog.com/categories/arxiv/</link>
+    <description>Recent content in Arxiv on ScholCommsProd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Jan 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://scholarly-comms-product-blog.com/categories/arxiv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Turning the Physics ArXiV into an Open Peer Review System.</title>
+      <link>http://scholarly-comms-product-blog.com/2011/01/04/arxiv.org-open-peer-review-proposal/</link>
+      <pubDate>Tue, 04 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2011/01/04/arxiv.org-open-peer-review-proposal/</guid>
+      <description>Axel Boldt posted an interesting short paper discussing how to turn the physics ArXiV into an open peer review system. It&amp;rsquo;s a short read, about three pages, but if you are familiar with the problems around peer review then you can just jump to part three of the paper which is a little under a page.
+The solution proposed is to create a new role of editor on the ArXiV, and allow anyone to propose their paper for review.</description>
+    </item>
+    
+  </channel>
+</rss>

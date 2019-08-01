@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product Development on ScholCommsProd</title>
+    <link>http://scholarly-comms-product-blog.com/categories/product-development/</link>
+    <description>Recent content in Product Development on ScholCommsProd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://scholarly-comms-product-blog.com/categories/product-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>One Two Four All - a technique for getting insights from groups</title>
+      <link>http://scholarly-comms-product-blog.com/2018/10/18/one_two_four_all_-_a_technique_for_getting_insights_from_groups/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/10/18/one_two_four_all_-_a_technique_for_getting_insights_from_groups/</guid>
+      <description>I’ve started working my way through The Surprising Power of Liberating Structures - a hand book of techniques for collaborative work.
+So far I’ve tried one technique from the book - one two four all.
+The idea is super simple and is an alternative to open brainstorming or post-it note sessions. Before describing the technique with a few comments, I’ll just point out one of the weaknesses of a group work activity like a retrospective.</description>
+    </item>
+    
+    <item>
+      <title>notes on notes on “crossing the chasam”</title>
+      <link>http://scholarly-comms-product-blog.com/2018/07/03/notes_on_notes_on_crossing_the_chasam/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/07/03/notes_on_notes_on_crossing_the_chasam/</guid>
+      <description>The following is not about scholarly communication, but is a post about one tool from the world of product development, how to think about marketing your product or service so that you can cross the chasm. Academic researchers are simultaneously the most innovative and conservative of users.
+There is so much pain in the process of academic research that there is a constant re-invention and invention of tools and proceeds, but at the same time there is also a huge time pressure, so for any new tool, technique or service to get wide spread traction is really hard in the academic market place.</description>
+    </item>
+    
+    <item>
+      <title>Jobs to be Done A Case Study in the NHS | Digital transformation blog</title>
+      <link>http://scholarly-comms-product-blog.com/2018/06/29/jobs_to_be_done_a_case_study_in_the-nhs__digital_transformation_blog/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/06/29/jobs_to_be_done_a_case_study_in_the-nhs__digital_transformation_blog/</guid>
+      <description>This is a great post on using the jobs to be done framework. There are two specific enhancements that are discussed - how to weight those jobs, and how to use granularity of the jobs to aid the design process (less granularity gives more freedom in the design phase).
+The authors wanted to use surveys to get a sense of importance of the under served needs, but in the end had to resort to a simple variant of card sorting.</description>
+    </item>
+    
+    <item>
+      <title>scholarly comms product meetup - V2 - announcement</title>
+      <link>http://scholarly-comms-product-blog.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/04/18/scholarly_comms_product_meetup_-_v2_-_announcement_/</guid>
+      <description>Back in November of last year we ran the first scholarly comms meetup with a focus on product management. There are lots of great meetups out there for people who work in scholarly comms, but we felt that there might be an unscratched need to have a meeting where the focus was not explicitly on community building, or on new technologies, or on public outreach, or on new trends and technologies, but solely on the product management work that is required to develop these kinds of tools.</description>
+    </item>
+    
+    <item>
+      <title>Three posts about product development</title>
+      <link>http://scholarly-comms-product-blog.com/2017/03/15/three_posts_product_dev/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2017/03/15/three_posts_product_dev/</guid>
+      <description>I&amp;rsquo;m catching up on some reading at the moment. Trying to make headway on some other work while jet lagged is proving a challenge. Anyway, here are a couple of nice posts about product development that popped up in my feed (hat tip to Mind the Product Weekly Newsletter.
+## What do people do in the spaces in between?
+When thinking about what people do with your product, also think about what they don’t do, and how to help them get to where they are going.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data on ScholCommsProd</title>
+    <link>http://scholarly-comms-product-blog.com/categories/data/</link>
+    <description>Recent content in Data on ScholCommsProd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://scholarly-comms-product-blog.com/categories/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Belmont Forum Round Table - data accessibility statements</title>
+      <link>http://scholarly-comms-product-blog.com/2018/10/19/belmont_forum_round_table_-_data_accessibility_statements_/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2018/10/19/belmont_forum_round_table_-_data_accessibility_statements_/</guid>
+      <description>Yesterday I attended a round table discussion hosted by the Belmont Forum about the release of their position on data accessibility statements and digital objects management plans. (It’s a bit of a mouthful, but the reason is that they are aiming to be clear and comprehensive around what they are asking to make it easier for researchers, publishers and other stakeholders to get to compliance around this policy.)
+You can read their position paper — Draft DAS Statement and Policy for October 2018 Plenary - Google Docs.</description>
+    </item>
+    
+    <item>
+      <title>thoughts on the ERC data workshop</title>
+      <link>http://scholarly-comms-product-blog.com/2014/09/24/erc-workshop-thought/</link>
+      <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2014/09/24/erc-workshop-thought/</guid>
+      <description>On Thursday and Friday of last week I attended a European Research Council workshop on managing research data. It was well attended with about 130 participants brining views from across the academic disciplines. I&amp;rsquo;ve blogged my raw notes from day one and day two. In this post I reflect on the points I noticed that were raised over the two days. People have been talking about the increasing importance of research information for many years now, and a hope was raised in the opening comments that we might be able to provide solutions to the problems posed by the issues of research data, by the end of the workshop.</description>
+    </item>
+    
+    <item>
+      <title>ERC data management workshop, day 1</title>
+      <link>http://scholarly-comms-product-blog.com/2014/09/21/erc-workshop-day1/</link>
+      <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2014/09/21/erc-workshop-day1/</guid>
+      <description>initial thoughts about the workshop.  Opening remarks. Setting the scene. Sabrina Leonelli - the epistemology of data-intesive science. Dr Hans Pfeiffenberger - Open Science &amp;ndash; opportunities, challenges &amp;hellip; @datasciencefeed. Bernd Pulverer - finding and accessing the data behind figures. Dr Roar Skålin - Norwegian researchers want to share, but are afraid of jeopardising their career. Summary of points from the scene setting. Afternoon breakout session - Life Sciences.</description>
+    </item>
+    
+    <item>
+      <title>ERC data management workshop, day 2</title>
+      <link>http://scholarly-comms-product-blog.com/2014/09/21/erc-workshop-day2/</link>
+      <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2014/09/21/erc-workshop-day2/</guid>
+      <description>Life sciences breakout - key points. Physical sciences breakout - key points. Humanities breakout - key points. Open discussion on morning presentations. Breakout session on incentives.  Paul Ayris - Implementing the Future: the LERU roadmap for research data. Sünje Dallmeier‐Tiessen - Incentives for Open Science Attribution, Recognition, Collaboration. Veerle Van den Eynden and Libby Bishop - Incentives for sharing research data, evidence from an EU study. Open discussion after breakout session.</description>
+    </item>
+    
+    <item>
+      <title>STM innovations seminar, London, 2013</title>
+      <link>http://scholarly-comms-product-blog.com/2013/12/04/stm-innovations-2013/</link>
+      <pubDate>Wed, 04 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2013/12/04/stm-innovations-2013/</guid>
+      <description>Today I&amp;rsquo;m at the STM innovations seminar. The twitter tag for today is #ukinno. The program is online.
+I&amp;rsquo;m going to take a light approach to blogging today, I&amp;rsquo;ll probably hang out mostly on Twitter.
+## 9.35 The Research Data Revolution, Sayeed Choudhury, Associate Dean for Research Data Management, Johns Hopkins University &amp;gt; Data has become a major topic of interest from all sectors of society with headlines such as “Data is the new oil” to assertions from McKinsey that data is the fourth factor of production.</description>
+    </item>
+    
+    <item>
+      <title>ENCODE - an example of open publication and data integration.</title>
+      <link>http://scholarly-comms-product-blog.com/2013/01/30/euan-birney-data-publishing-talk-plos-elife/</link>
+      <pubDate>Wed, 30 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2013/01/30/euan-birney-data-publishing-talk-plos-elife/</guid>
+      <description>On Monday the 14th of January we met at the PLOS offices in Cambridge to hear a talk from Euan Birney on lessons learned from publishing data rich publications though the encode project.
+This was the first time that Euan was far less worried about the print, and far more worried about how well the online version was going to work.
+Dimensions of the project  5 TeraBases 1715 times the size of the Human Genome 3k experiments 410 authors on the main paper 6 high profile papers ~35 companion papers  The output should not be thought of as papers, but as the raw data.</description>
+    </item>
+    
+  </channel>
+</rss>
