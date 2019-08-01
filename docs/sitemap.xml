@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/2019/08/01/test_blog_post/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/2018/11/29/agile_or_agile_/</loc>
     <lastmod>2018-11-29T00:00:00+00:00</lastmod>
   </url>
@@ -945,6 +950,12 @@
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/technology/</loc>
     <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/test/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
