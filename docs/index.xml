@@ -6,10 +6,20 @@
     <description>Recent content on ScholCommsProd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://scholarly-comms-product-blog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>key questions about AI in the publishing knowledge industry</title>
+      <link>http://scholarly-comms-product-blog.com/2019/08/01/key_questions_about_ai_in_the_publishing_knowledge_industry_/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2019/08/01/key_questions_about_ai_in_the_publishing_knowledge_industry_/</guid>
+      <description>At the moment one thing that is front and centre in my thinking about AI and machine learning in publishing and the scholarly ecosystem is how to make the case for ROI for investment in the technology, and more specifically investing in making data actionable.
+Overall I think there is great promise for challenges like knowledge discovery and machine generated hypotheses, but there is massive potential for these technologies to also just make the quality of our work better, and to increase the value of our work by reducing and removing toil in the workplace.</description>
+    </item>
     
     <item>
       <title>AGILE or agile?</title>
@@ -122,10 +132,10 @@ Two things though, make it look like a nice product. Right now paper flow into t
     
     <item>
       <title>Jobs to be Done A Case Study in the NHS | Digital transformation blog</title>
-      <link>http://scholarly-comms-product-blog.com/2018/06/29/jobs_to_be_done_a_case_study_in_thenhs__digital_transformation_blog/</link>
+      <link>http://scholarly-comms-product-blog.com/2018/06/29/jobs_to_be_done_a_case_study_in_the-nhs__digital_transformation_blog/</link>
       <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://scholarly-comms-product-blog.com/2018/06/29/jobs_to_be_done_a_case_study_in_thenhs__digital_transformation_blog/</guid>
+      <guid>http://scholarly-comms-product-blog.com/2018/06/29/jobs_to_be_done_a_case_study_in_the-nhs__digital_transformation_blog/</guid>
       <description>This is a great post on using the jobs to be done framework. There are two specific enhancements that are discussed - how to weight those jobs, and how to use granularity of the jobs to aid the design process (less granularity gives more freedom in the design phase).
 The authors wanted to use surveys to get a sense of importance of the under served needs, but in the end had to resort to a simple variant of card sorting.</description>
     </item>
