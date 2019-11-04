@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/2019/11/04/things_holding_back_your_analytics._/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/2019/09/05/are_scholarly_publishers_technology_companies_/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
@@ -329,6 +334,12 @@
   </url>
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/analysis/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/categories/architecture/</loc>
     <lastmod>2018-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -463,6 +474,12 @@
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/data-management/</loc>
     <lastmod>2014-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/data-science/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -803,6 +820,12 @@
   </url>
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/organisations/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/categories/peer-review/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -816,7 +839,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -900,7 +923,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -960,7 +983,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/strategy/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
