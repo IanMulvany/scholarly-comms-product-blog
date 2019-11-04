@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/2019/11/04/responsible_metrics_-_the_state_of_the_art_-_elizabeth_gadd_at_force2019_/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/2019/11/04/things_holding_back_your_analytics._/</loc>
     <lastmod>2019-11-04T00:00:00+00:00</lastmod>
   </url>
@@ -358,6 +363,12 @@
   </url>
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/assessment/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/categories/authoring/</loc>
     <lastmod>2014-01-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -586,6 +597,12 @@
   </url>
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/force2019/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/categories/funders/</loc>
     <lastmod>2018-10-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -760,6 +777,12 @@
   </url>
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/metrics/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/categories/microservices/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -821,6 +844,12 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/organisations/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/outcomes/</loc>
     <lastmod>2019-11-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
