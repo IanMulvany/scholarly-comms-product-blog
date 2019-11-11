@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/2019/11/11/rave_tech_conference_2019_/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/2019/11/06/unpaywall_journals_-_possibly_the_most_interesting_thing_to_happen_this_year_in_library_subscription_land._/</loc>
     <lastmod>2019-11-06T00:00:00+00:00</lastmod>
   </url>
@@ -878,7 +883,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/post/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -914,7 +919,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/publishing/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -926,7 +931,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/rave/</loc>
-    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -968,7 +973,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1046,6 +1051,12 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/techmology/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
