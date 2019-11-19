@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/2019/11/19/google_data_set_search._/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/2019/11/13/rescognito_-_a_route_towards_a_weighted_scholarly_graph./</loc>
     <lastmod>2019-11-13T00:00:00+00:00</lastmod>
   </url>
@@ -509,7 +514,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/data/</loc>
-    <lastmod>2018-10-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -551,7 +556,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/discovery/</loc>
-    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -666,6 +671,12 @@
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/gold/</loc>
     <lastmod>2012-10-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/google/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -923,7 +934,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/post/</loc>
-    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -982,6 +993,12 @@
   </url>
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/repositories/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/categories/research/</loc>
     <lastmod>2019-11-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1013,7 +1030,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/</loc>
-    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

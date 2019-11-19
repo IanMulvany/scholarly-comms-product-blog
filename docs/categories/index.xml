@@ -275,7 +275,7 @@
     <item>
       <title>Data</title>
       <link>http://scholarly-comms-product-blog.com/categories/data/</link>
-      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>http://scholarly-comms-product-blog.com/categories/data/</guid>
       <description></description>
@@ -338,7 +338,7 @@
     <item>
       <title>Discovery</title>
       <link>http://scholarly-comms-product-blog.com/categories/discovery/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>http://scholarly-comms-product-blog.com/categories/discovery/</guid>
       <description></description>
@@ -512,6 +512,15 @@
       <pubDate>Tue, 02 Oct 2012 00:00:00 +0000</pubDate>
       
       <guid>http://scholarly-comms-product-blog.com/categories/gold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google</title>
+      <link>http://scholarly-comms-product-blog.com/categories/google/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/google/</guid>
       <description></description>
     </item>
     
@@ -971,6 +980,15 @@
       <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
       
       <guid>http://scholarly-comms-product-blog.com/categories/recommendations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repositories</title>
+      <link>http://scholarly-comms-product-blog.com/categories/repositories/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/repositories/</guid>
       <description></description>
     </item>
     
