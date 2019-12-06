@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/2019/12/06/some_brief_thoughts_on_scholarly_publishing_and_climate_change._/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/2019/12/05/stm_research_data_workshop._/</loc>
     <lastmod>2019-12-05T00:00:00+00:00</lastmod>
   </url>
@@ -362,7 +367,7 @@
   
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/ai/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -475,6 +480,12 @@
   </url>
   
   <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/climate/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://scholarly-comms-product-blog.com/categories/coasp/</loc>
     <lastmod>2011-10-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -507,6 +518,12 @@
   <url>
     <loc>http://scholarly-comms-product-blog.com/categories/credit/</loc>
     <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://scholarly-comms-product-blog.com/categories/crisis/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
