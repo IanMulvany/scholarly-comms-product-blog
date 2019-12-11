@@ -1,0 +1,658 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<meta property="og:title" content="thoughts on GetFTR" />
+<meta property="og:description" content="what does it do? By using a single sign-on system (like SAML, or OAuth) a researcher can have their browser remember who they are. Today most access to subscription content is done via IP authentication. A university pays a publisher to access the content that the publisher hosts, and the university sends over a list of the IP ranges that cover the university buildings. Any researcher on campus just gets access." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://scholarly-comms-product-blog.com/2019/12/11/thoughts_on_getftr_/" />
+<meta property="article:published_time" content="2019-12-11T00:00:00&#43;00:00"/>
+<meta property="article:modified_time" content="2019-12-11T00:00:00&#43;00:00"/>
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="thoughts on GetFTR"/>
+<meta name="twitter:description" content="what does it do? By using a single sign-on system (like SAML, or OAuth) a researcher can have their browser remember who they are. Today most access to subscription content is done via IP authentication. A university pays a publisher to access the content that the publisher hosts, and the university sends over a list of the IP ranges that cover the university buildings. Any researcher on campus just gets access."/>
+
+
+
+    <link rel="canonical" href="http://scholarly-comms-product-blog.com/2019/12/11/thoughts_on_getftr_/">
+
+    <title>
+      
+        thoughts on GetFTR | ScholCommsProd
+      
+    </title>
+
+    
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link href="http://scholarly-comms-product-blog.com/css/style.css" rel="stylesheet">
+
+    
+
+    
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-120951226-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+    
+  </head>
+  <body>
+    
+      
+
+<header class="blog-header">
+    <nav class="navbar navbar-expand-md navbar-light bg-light">
+        <a class="navbar-brand" href="/">
+            ScholCommsProd
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
+            aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-between" id="navbarNav">
+            <ul class="navbar-nav">
+                
+                
+                <li class="nav-item ">
+                    
+                        <a class="nav-link" href="/about/">About</a>
+                    
+                </li>
+                
+                <li class="nav-item ">
+                    
+                        <a class="nav-link" href="/categories">Categories</a>
+                    
+                </li>
+                
+                <li class="nav-item ">
+                    
+                        <a class="nav-link" href="/post/index.xml">RSS</a>
+                    
+                </li>
+                
+                <li class="nav-item ">
+                    
+                        <a class="nav-link" href="/post/">Posts</a>
+                    
+                </li>
+                
+            </ul>
+            
+        </div>
+    </nav>
+</header>
+
+    
+
+    
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-lg-8 blog-main">
+
+          
+
+<header>
+    <h2 class="blog-post-title">
+    <a class="text-dark" href="/2019/12/11/thoughts_on_getftr_/">thoughts on GetFTR</a>
+</h2>
+
+    
+
+
+<div class="blog-post-date text-secondary">
+    
+        <time datetime="2019-12-11">Dec 11, 2019</time>
+    
+    
+</div>
+
+    
+    
+<div class="blog-post-categories text-secondary">
+    <strong>Categories:</strong>
+    
+        <a class="badge badge-primary" href="/categories/getftr">getftr</a>
+    
+        <a class="badge badge-primary" href="/categories/wtfgetftwt">wtfgetftwt</a>
+    
+        <a class="badge badge-primary" href="/categories/access">access</a>
+    
+        <a class="badge badge-primary" href="/categories/saml">saml</a>
+    
+        <a class="badge badge-primary" href="/categories/publishing">publishing</a>
+    
+        <a class="badge badge-primary" href="/categories/libraries">libraries</a>
+    
+</div>
+
+    <hr>
+</header>
+<article class="blog-post">
+    
+
+<h3 id="what-does-it-do">what does it do?</h3>
+
+<p>By using a single sign-on system (like SAML, or OAuth) a researcher can have their browser remember who they are. Today most access to subscription content is done via IP authentication. A university pays a publisher to access the content that the publisher hosts, and the university sends over a list of the IP ranges that cover the university buildings. Any researcher on campus just gets access. The big problem is that when you are off campus that doesn’t work any more.</p>
+
+<p>If researchers log in to the publisher site via a university authenticated single sign on system, then the browser can remember that the researcher has access to the content, on their behalf.  This allows the researcher to get access to the publisher site, even when they are off campus. (It also allows the publisher to have a much better understanding of who is accessing their content).</p>
+
+<p>That’s the key idea behind ”seamlessaccess.org”, but there could be concerns about the publisher now knowing who the researcher is.</p>
+
+<p>So far, so good, but what does GetFTR do that’s different. As I understand it, from reading what’s on the GetFTR site, GetFTR has an API and when any website that shows a DOI on it wants to, that website can send a request to this API with the DOI, and if the website has it, it can also send information about the institution from where the request is coming. Now rather than the identification of the university being any old identifying string, it needs to be one backed by a single sign on system, like SAML. The API will then send  some information back that can allow the website to create a ”WAYFless URL”. That lest the person clicking the link get directly to the content without having to go through the payday. Now GetFTR have said that they don’t need or receive any user specific information, they just need the institutional authentication.</p>
+
+<p>OK, so what is the difference, for the user, between seamlessaccess and GetFTR? I <em>think</em> that the difference is the following - with seamless access you the user have to log in to the publisher site. With GetFTR if you are providing pages that contain DOIs (like on a discovery service) to your researchers, you can give them links they can click on that have been setup to get those users direct access to the content. That means as a researcher, so long as the discovery service has you as an authenticated user, you don’t need to even think about logins, or publisher access credentials.</p>
+
+<p>On the other hand, the links that you are being presented are now determined by the publisher.</p>
+
+<p>If you are on campus, and your institution has access to the publisher site, then the end result should be indistinguishable  from just clicking on the DOI and getting a redirect to the publisher site (unless the publisher decides to stop supporting IP authentication, and maybe that is a long term goal of this initiative, but who knows ¯_(ツ)_/¯).</p>
+
+<p>If you are off campus the experience could be different for paywalled journals, in that if you are logged in to your discovery service you should now get links that will work for you without you needing to log in to specific publisher sites, whereas just clicking on the DOI won’t necesscarily get you that access.</p>
+
+<p>How about using unpaywall, the open access button, or some other browser extension for finding alternative links for that article that you need (like links to repository versions, for example?). Well the good folks behind GetFTR <em>could</em> also provide those links if they were to wrap around the unpaywall API, for example, but what will happen is that some publishers will have the idea of wanting to provide researchers with some form of bronze version of the article, perhaps through platforms that restrict the ability of the researcher to copy and paste form the text, or to share onwardly, all presumable with the aims of being able to “count” usage while at the same time reducing the surface area from which content can “leak” from the publisher site. In a world in which contracts with university libraries is focussed on data like COUNTER usage, then this is a perfectly reasonable concern from publishers, however the choices that publisher make about how to present “alternative” versions to reachers is going to vary.</p>
+
+<p>One example of how this could suck, lets imagine that there is a very usable green OA version of an article, but the publisher wants to push me to using some “e-reader limited functionality version” that requires an account registration, or god forbid a browser exertion, or desktop app. If the publisher shows only this limited utility version, and not the green version, well that sucks.</p>
+
+<p>OK, so that’s my understanding of what GetFTR does (if I’m wrong, then I hope I’ll get corrected quickly.</p>
+
+<h3 id="why-is-it-doing-that">why is it doing that?</h3>
+
+<p>OK, so, I’ve covered what it does, but why are the big five doing this? Weeeeeellllll. It’s not totally clear, but the elephant in the room is sci-hub - the website where everyone in the world can go and get an illegal copy of any research article. That combined with the economic system of value exchange in scholarly publishing, probably gives sufficient motivation for publishers to create this service.</p>
+
+<p>I think there are two things that make it possible for sci-hub to be possible.</p>
+
+<p>The first is there is a huge fragmentation of publishers in the world, and the user experience of navigating all of these sites, and systems is a pain. There is no one clear unified experience for interacting with the scholarly research, and in the googlified world we live in, that just does not gel with the kind of experience that people want, so to start with sci-hub just provides a better user experience (I’m told, I’ve actually only used sci-hub once, and I found it a pain to use back then).</p>
+
+<p>The second thing that makes sci-hub possible is a combination of IP access (no-authentication access) along with weak on-campus security for researcher logins. That allows sci-hub to attack researcher accounts to enable them to scrape all of the content that they put on their servers.</p>
+
+<p>A service like GetFTR kind of targets both of the above.</p>
+
+<p>The motivation is probably mostly to try to get the industry on board to try to get beyond IP authentication, and to allow publishers to “count” usage so that the “usage” numbers they present to libraries look higher and allow them to justify either price rises or indeed, just simple renewals of contracts.</p>
+
+<p>I have to say, the moving beyond IP authentication is a really good idea for a whole host of security reasons, and it will indeed require a big shift across the whole industry, so if this initiative could be run in a way the builds trust amongst all parties, then that would be no small thing, and should be applauded.</p>
+
+<h3 id="what-would-make-this-succeed">what would make this succeed?</h3>
+
+<p>So, in order for this to work for a cohort of researchers, every place that they look for research will need to be to implement calls to this API, and will need to have information about that researchers authenticated access to their universities.</p>
+
+<p>That sounds like a tall order, but there are some services, and pieces of infrastructure, that have wide deployment footprints in the world, so if you can convince them to implement this, then maybe you get to a critical mass.</p>
+
+<p>Oh, you also need all the publishers to implement this too, and for publishers to do this, then they are going to need to be provided with a very low cost, turn-key solution to be able to implement it.</p>
+
+<p>To keep a service like this running, I would expect that you would want to have a small dedicated team (maybe 5 — 10 people), and support a reasonable volume of API queries, with a good response rate. I’d benchmark the cost of running this service to be on the order of a few hundred thousand dollars. With maybe 14k publishers in the world, then the cost of joining this service should be on the order of a few thousand dollars per year, not withstanding the cost of implementation and integration. That seems like a reasonable ball park.</p>
+
+<h3 id="what-would-make-this-fail">what would make this fail?</h3>
+
+<p>I’ve not done anything like a full analysis on this, in terms of looking at a lean canvas and trying to tease out the riskiest assumptions around the sustainability of this service, but the one thing that sticks out that could make this fail is lack of researcher adoption. If researchers use different discovery systems, and they don’t see these links everywhere, then they may just fall back to using a behavioural route that works everywhere. (That’s a totally untested hypothesis on my part, and indeed, the very reasonableness of it means that it should be tested).</p>
+
+<p>Contributing to lack of adoption could be if GetFTR is complex or costly for institutions and publishers to implement.</p>
+
+<h3 id="what-would-make-this-irrelevant">what would make this irrelevant?</h3>
+
+<p>If publishing moves to being fully OA then this service is irrelevant.</p>
+
+<h3 id="what-are-the-concerns-that-we-might-think-about-with-this-and-do-they-hold-water">what are the concerns that we might think about with this, and do they hold water?</h3>
+
+<p>OK, hold on to your hats, this is where we get into tin-foil hat territory.</p>
+
+<h3 id="will-google-scholar-implement-this-will-other-discovery-services-do-so">Will google scholar implement this, will other discovery services do so?</h3>
+
+<p>Well, that’s a question. I suppose that publishers could coerce GS to implement this by threatening to rescind access to their full text, but would they really want to take the hit to their traffic? I don’t see that as being worth the risk. GS is a small team, if all publishers were implementing this, they might join in, they might not, they have their own effort to try to solve this for users.</p>
+
+<p>Someone on twitter way saying the the big five could coerce discovery services to implement this through contractual enforcement. If the system is easy enough to implement and truly adds value, then you should not need to enforce implementation, and if it is not/does not, then enforced implementation is not where your key problems are with this service.</p>
+
+<h4 id="concern-this-could-replace-crossref">concern - this could replace crossref</h4>
+
+<p>This was my first thought when I head about it, and joined up this with some of the comments that were reported from Crossref Live. The thinking is that is this a way for publishers to provide a routing system independent of the handle system that corssref redirects are based off of? Well, yes it does do that, however the entire service depends on DOIs, so while it could replace some of the existing infrastructure, it as the same time remains dependant on the existing infrastructure. I can appreciate that to move fast sometimes its good to just get on and do things, but I would advocate that if this service were to become a true replacement for IP authentication then it should hand governance over to someone like NISO or some other independent body.</p>
+
+<h4 id="concern-this-could-kill-green-oa">concern - this could kill green OA</h4>
+
+<p>As I mentioned earlier, this could enable publishers to decide to provide links to restricted access, but free to read, versions of articles, in place of GreenOA. I don’t think this is going to be a big concern for two reasons. The first is that not all publishers will be able to do this, and secondly the motivation to deposit into institutional repositories is not currently driven by usage data from those repositories, but rather from mandates from funders, who are unlikely to be influenced by this service in how they decide to modify their mandates in the future.</p>
+
+<h4 id="concern-this-could-leak-proprietary-publisher-information">concern - this could leak proprietary publisher information</h4>
+
+<p>OK, so I’m not sure how the API is provisioned, but I am assuming that it is provisioned by a single end point. Who owns that endpoint and the logged data that this endpoint collects? That endpoint will have information about what resources different publishers have provided to institutions, combined with usage data from those institutions. If I am publisher A and have a journal close to that from publisher B, but that is “lower tier”, then if I could access usage data from publisher B I could modify my sales price. How am I going to be sure that my own usage data does not leak to other publishers signed up to this service?</p>
+
+<h4 id="concern-this-does-no-look-like-the-kind-of-initiative-that-a-publisher-who-is-on-a-transformative-journey-to-open-access-would-invest-in">concern - this does no look like the kind of initiative that a publisher who is on a transformative journey to Open Access would invest in.</h4>
+
+<p>If I am sitting in the European Commission or in JISC I am probably not going to look at this initiative as something that proves publishers are on a journey to becoming open access. I think GetFTR do need to make clear what the overall benefits to the scholarly ecosystem are with this initiative, because at the moment the information on their FAQ seems to mostly support the creation of publisher value.</p>
+
+<h4 id="concern-this-will-allow-publishers-to-track-users-and-behaviourally-target-them">concern - this will allow publishers to track users, and behaviourally target them.</h4>
+
+<p>If the users are now logging in to some service directly, won’t this mean that the publisher can now track that person directly? Actually GetFTR explicitly states that they don’t get any information about the user, and given that this needs to be implemented server side, then there are actually fewer potential security concerns compared to using a browser plugin based solution.</p>
+
+<h3 id="what-do-i-think-about-it-all-what-are-my-recommendations">What do I think about it all? What are my recommendations?</h3>
+
+<p>I don’t really know yet. Doing anything is hard, doing so in coordination amongst large competitors is even more so, so the team behind this should be recognised for having put tougher a well executed initial proposal for how to move on access management.</p>
+
+<p>I think if you are a researcher I would recommend continuing to use a bag of tools to get access to your research. For the interim this will only be a partial solution.</p>
+
+<p>If you are a publisher I would recommend calculating cost of implementation, time to implement against expectations around how much additional usage it is going to give you, and how much revenue that is going to translate to. Basically I would advocate using a cost of deals analysis on whether to implement this or now.</p>
+
+<p>I have two other recommendations for the GetFTR team. Both relate to building trust. First up, don’t list orgs as being on an advisory board, when they are not. Secondly it would be great to learn about the team behind the creation of the Service. At the moment its all very anonymous.</p>
+
+<h3 id="links-that-i-referred-to-when-putting-this-together">Links that I referred to when putting this together.</h3>
+
+<p><a href="https://wiki.geant.org/display/gn43wp5/Seamless+Access+Description">Seamless Access Description - GN4-3 Work Package 5 - GÉANT federated confluence</a>.</p>
+
+<p><a href="https://github.com/TheIdentitySelector/thiss-js">GitHub - TheIdentitySelector/thiss-js: The identity selector software source</a>.</p>
+
+<p><a href="https://thiss-js.readthedocs.io/en/latest/">Welcome to The Identity Selector Service’s documentation! — The Identity Selector Service 1.0.0 documentation</a>.</p>
+
+<p><a href="https://dltj.org/article/publishers-alone-with-getftr/">Publishers going-it-alone (for now?) with GetFTR | Disruptive Library Technology Jester</a></p>
+
+<p><a href="https://seamlessaccess.org">Welcome to SeamlessAccess.org | SA Site</a></p>
+
+<p><a href="https://www.getfulltextresearch.com/faqs/">https://www.getfulltextresearch.com/faqs/</a></p>
+
+<p><a href="https://scholarlykitchen.sspnet.org/2019/12/10/why-are-librarians-concerned-about-getftr/">https://scholarlykitchen.sspnet.org/2019/12/10/why-are-librarians-concerned-about-getftr/</a></p>
+
+<p><a href="https://blog.openaccessbutton.org/get-to-fulltext-ourselves-not-getftr-e952e798564b">Get To Fulltext Ourselves, Not GetFTR. - openaccessbutton</a></p>
+
+
+    
+
+    
+
+
+</article>
+
+
+
+        </div>
+
+        <aside class="col-12 col-lg-3 ml-auto blog-sidebar">
+    
+        
+
+
+<section>
+    <h4>Recent Posts</h4>
+    <ol class="list-unstyled">
+        
+        <li>
+            <a href="/2019/12/11/thoughts_on_getftr_/">thoughts on GetFTR</a>
+        </li>
+        
+        <li>
+            <a href="/2019/12/06/stm_research_data_workshop._/">STM Research data workshop.</a>
+        </li>
+        
+        <li>
+            <a href="/2019/12/06/some_brief_thoughts_on_scholarly_publishing_and_climate_change._/">Some brief thoughts on scholarly publishing and climate change.</a>
+        </li>
+        
+        <li>
+            <a href="/2019/12/05/stm_research_data_workshop._/">STM Research data workshop.</a>
+        </li>
+        
+        <li>
+            <a href="/2019/11/19/google_data_set_search._/">Google data set search.</a>
+        </li>
+        
+    </ol>
+</section>
+
+    
+    
+        <section>
+    
+        
+        <h4>Categories</h4>
+        <p>
+            
+            <a class="badge badge-primary" href="/categories/"></a>
+            
+            <a class="badge badge-primary" href="/categories/academia">academia</a>
+            
+            <a class="badge badge-primary" href="/categories/access">access</a>
+            
+            <a class="badge badge-primary" href="/categories/agile">agile</a>
+            
+            <a class="badge badge-primary" href="/categories/ai">ai</a>
+            
+            <a class="badge badge-primary" href="/categories/alm">alm</a>
+            
+            <a class="badge badge-primary" href="/categories/altmetrics">altmetrics</a>
+            
+            <a class="badge badge-primary" href="/categories/analysis">analysis</a>
+            
+            <a class="badge badge-primary" href="/categories/architecture">architecture</a>
+            
+            <a class="badge badge-primary" href="/categories/articles">articles</a>
+            
+            <a class="badge badge-primary" href="/categories/arxiv">arxiv</a>
+            
+            <a class="badge badge-primary" href="/categories/assessment">assessment</a>
+            
+            <a class="badge badge-primary" href="/categories/authoring">authoring</a>
+            
+            <a class="badge badge-primary" href="/categories/bcm">bcm</a>
+            
+            <a class="badge badge-primary" href="/categories/belmont">belmont</a>
+            
+            <a class="badge badge-primary" href="/categories/blockchain">blockchain</a>
+            
+            <a class="badge badge-primary" href="/categories/business">business</a>
+            
+            <a class="badge badge-primary" href="/categories/cc-by">cc-by</a>
+            
+            <a class="badge badge-primary" href="/categories/charleston">charleston</a>
+            
+            <a class="badge badge-primary" href="/categories/chasm">chasm</a>
+            
+            <a class="badge badge-primary" href="/categories/citation">citation</a>
+            
+            <a class="badge badge-primary" href="/categories/citations">citations</a>
+            
+            <a class="badge badge-primary" href="/categories/climate">climate</a>
+            
+            <a class="badge badge-primary" href="/categories/coasp">coasp</a>
+            
+            <a class="badge badge-primary" href="/categories/cognitive-load">cognitive-load</a>
+            
+            <a class="badge badge-primary" href="/categories/conference">conference</a>
+            
+            <a class="badge badge-primary" href="/categories/consolidation">consolidation</a>
+            
+            <a class="badge badge-primary" href="/categories/cool">cool</a>
+            
+            <a class="badge badge-primary" href="/categories/credit">credit</a>
+            
+            <a class="badge badge-primary" href="/categories/crisis">crisis</a>
+            
+            <a class="badge badge-primary" href="/categories/crossref">crossref</a>
+            
+            <a class="badge badge-primary" href="/categories/cug">cug</a>
+            
+            <a class="badge badge-primary" href="/categories/das">das</a>
+            
+            <a class="badge badge-primary" href="/categories/data">data</a>
+            
+            <a class="badge badge-primary" href="/categories/data-citation">data-citation</a>
+            
+            <a class="badge badge-primary" href="/categories/data-management">data-management</a>
+            
+            <a class="badge badge-primary" href="/categories/data-science">data-science</a>
+            
+            <a class="badge badge-primary" href="/categories/design">design</a>
+            
+            <a class="badge badge-primary" href="/categories/design-thinking">design-thinking</a>
+            
+            <a class="badge badge-primary" href="/categories/development">development</a>
+            
+            <a class="badge badge-primary" href="/categories/diagramming">diagramming</a>
+            
+            <a class="badge badge-primary" href="/categories/discovery">discovery</a>
+            
+            <a class="badge badge-primary" href="/categories/dog-in-manger">dog-in-manger</a>
+            
+            <a class="badge badge-primary" href="/categories/doi">doi</a>
+            
+            <a class="badge badge-primary" href="/categories/drafttoblog">drafttoblog</a>
+            
+            <a class="badge badge-primary" href="/categories/dystopia">dystopia</a>
+            
+            <a class="badge badge-primary" href="/categories/elife">elife</a>
+            
+            <a class="badge badge-primary" href="/categories/elife-lens">elife-lens</a>
+            
+            <a class="badge badge-primary" href="/categories/elsevier">elsevier</a>
+            
+            <a class="badge badge-primary" href="/categories/encode">encode</a>
+            
+            <a class="badge badge-primary" href="/categories/engineering">engineering</a>
+            
+            <a class="badge badge-primary" href="/categories/erc">erc</a>
+            
+            <a class="badge badge-primary" href="/categories/eu">eu</a>
+            
+            <a class="badge badge-primary" href="/categories/filter-failure">filter-failure</a>
+            
+            <a class="badge badge-primary" href="/categories/force2019">force2019</a>
+            
+            <a class="badge badge-primary" href="/categories/funders">funders</a>
+            
+            <a class="badge badge-primary" href="/categories/future">future</a>
+            
+            <a class="badge badge-primary" href="/categories/future-of-publishing">future-of-publishing</a>
+            
+            <a class="badge badge-primary" href="/categories/futurepub">futurepub</a>
+            
+            <a class="badge badge-primary" href="/categories/futurepub10">futurepub10</a>
+            
+            <a class="badge badge-primary" href="/categories/getftr">getftr</a>
+            
+            <a class="badge badge-primary" href="/categories/gold">gold</a>
+            
+            <a class="badge badge-primary" href="/categories/google">google</a>
+            
+            <a class="badge badge-primary" href="/categories/graph">graph</a>
+            
+            <a class="badge badge-primary" href="/categories/green">green</a>
+            
+            <a class="badge badge-primary" href="/categories/groupwork">groupwork</a>
+            
+            <a class="badge badge-primary" href="/categories/horizon-2020">horizon-2020</a>
+            
+            <a class="badge badge-primary" href="/categories/hype-machine">hype-machine</a>
+            
+            <a class="badge badge-primary" href="/categories/impact">impact</a>
+            
+            <a class="badge badge-primary" href="/categories/industry">industry</a>
+            
+            <a class="badge badge-primary" href="/categories/innovation">innovation</a>
+            
+            <a class="badge badge-primary" href="/categories/innovations">innovations</a>
+            
+            <a class="badge badge-primary" href="/categories/interesting">interesting</a>
+            
+            <a class="badge badge-primary" href="/categories/jobs-to-be-done">jobs-to-be-done</a>
+            
+            <a class="badge badge-primary" href="/categories/kudos">kudos</a>
+            
+            <a class="badge badge-primary" href="/categories/latex">latex</a>
+            
+            <a class="badge badge-primary" href="/categories/leadership">leadership</a>
+            
+            <a class="badge badge-primary" href="/categories/lean">lean</a>
+            
+            <a class="badge badge-primary" href="/categories/lean-value-tree">lean-value-tree</a>
+            
+            <a class="badge badge-primary" href="/categories/learning">learning</a>
+            
+            <a class="badge badge-primary" href="/categories/lens">lens</a>
+            
+            <a class="badge badge-primary" href="/categories/libraries">libraries</a>
+            
+            <a class="badge badge-primary" href="/categories/library">library</a>
+            
+            <a class="badge badge-primary" href="/categories/lvt">lvt</a>
+            
+            <a class="badge badge-primary" href="/categories/machine-learning">machine-learning</a>
+            
+            <a class="badge badge-primary" href="/categories/management">management</a>
+            
+            <a class="badge badge-primary" href="/categories/meetup">meetup</a>
+            
+            <a class="badge badge-primary" href="/categories/megajournals">megajournals</a>
+            
+            <a class="badge badge-primary" href="/categories/metrics">metrics</a>
+            
+            <a class="badge badge-primary" href="/categories/microservices">microservices</a>
+            
+            <a class="badge badge-primary" href="/categories/music">music</a>
+            
+            <a class="badge badge-primary" href="/categories/nature">nature</a>
+            
+            <a class="badge badge-primary" href="/categories/networks">networks</a>
+            
+            <a class="badge badge-primary" href="/categories/nhs">nhs</a>
+            
+            <a class="badge badge-primary" href="/categories/oa">oa</a>
+            
+            <a class="badge badge-primary" href="/categories/open-access">open-access</a>
+            
+            <a class="badge badge-primary" href="/categories/open-data">open-data</a>
+            
+            <a class="badge badge-primary" href="/categories/open-science">open-science</a>
+            
+            <a class="badge badge-primary" href="/categories/openaccess">openaccess</a>
+            
+            <a class="badge badge-primary" href="/categories/orcid">orcid</a>
+            
+            <a class="badge badge-primary" href="/categories/organisations">organisations</a>
+            
+            <a class="badge badge-primary" href="/categories/outcomes">outcomes</a>
+            
+            <a class="badge badge-primary" href="/categories/peer-review">peer-review</a>
+            
+            <a class="badge badge-primary" href="/categories/pid">pid</a>
+            
+            <a class="badge badge-primary" href="/categories/plos">plos</a>
+            
+            <a class="badge badge-primary" href="/categories/preprints">preprints</a>
+            
+            <a class="badge badge-primary" href="/categories/product-development">product-development</a>
+            
+            <a class="badge badge-primary" href="/categories/product-management">product-management</a>
+            
+            <a class="badge badge-primary" href="/categories/programming">programming</a>
+            
+            <a class="badge badge-primary" href="/categories/publihsing">publihsing</a>
+            
+            <a class="badge badge-primary" href="/categories/publishing">publishing</a>
+            
+            <a class="badge badge-primary" href="/categories/publishing">publishing#</a>
+            
+            <a class="badge badge-primary" href="/categories/rave">rave</a>
+            
+            <a class="badge badge-primary" href="/categories/recommendations">recommendations</a>
+            
+            <a class="badge badge-primary" href="/categories/repositories">repositories</a>
+            
+            <a class="badge badge-primary" href="/categories/research">research</a>
+            
+            <a class="badge badge-primary" href="/categories/retractions">retractions</a>
+            
+            <a class="badge badge-primary" href="/categories/roi">roi</a>
+            
+            <a class="badge badge-primary" href="/categories/rules">rules</a>
+            
+            <a class="badge badge-primary" href="/categories/sage">sage</a>
+            
+            <a class="badge badge-primary" href="/categories/saml">saml</a>
+            
+            <a class="badge badge-primary" href="/categories/scholarly-comms">scholarly-comms</a>
+            
+            <a class="badge badge-primary" href="/categories/scholarly-publishing">scholarly-publishing</a>
+            
+            <a class="badge badge-primary" href="/categories/science">science</a>
+            
+            <a class="badge badge-primary" href="/categories/slowness">slowness</a>
+            
+            <a class="badge badge-primary" href="/categories/software">software</a>
+            
+            <a class="badge badge-primary" href="/categories/software-carpentry">software-carpentry</a>
+            
+            <a class="badge badge-primary" href="/categories/ssrn">ssrn</a>
+            
+            <a class="badge badge-primary" href="/categories/startups">startups</a>
+            
+            <a class="badge badge-primary" href="/categories/stem">stem</a>
+            
+            <a class="badge badge-primary" href="/categories/stm">stm</a>
+            
+            <a class="badge badge-primary" href="/categories/strategy">strategy</a>
+            
+            <a class="badge badge-primary" href="/categories/subscriptions">subscriptions</a>
+            
+            <a class="badge badge-primary" href="/categories/systems">systems</a>
+            
+            <a class="badge badge-primary" href="/categories/techmology">techmology</a>
+            
+            <a class="badge badge-primary" href="/categories/techniques">techniques</a>
+            
+            <a class="badge badge-primary" href="/categories/technology">technology</a>
+            
+            <a class="badge badge-primary" href="/categories/test">test</a>
+            
+            <a class="badge badge-primary" href="/categories/threaded-publications">threaded-publications</a>
+            
+            <a class="badge badge-primary" href="/categories/threads">threads</a>
+            
+            <a class="badge badge-primary" href="/categories/toil">toil</a>
+            
+            <a class="badge badge-primary" href="/categories/tools">tools</a>
+            
+            <a class="badge badge-primary" href="/categories/transparency">transparency</a>
+            
+            <a class="badge badge-primary" href="/categories/trends">trends</a>
+            
+            <a class="badge badge-primary" href="/categories/unpaywall">unpaywall</a>
+            
+            <a class="badge badge-primary" href="/categories/ux">ux</a>
+            
+            <a class="badge badge-primary" href="/categories/visualisation">visualisation</a>
+            
+            <a class="badge badge-primary" href="/categories/web">web</a>
+            
+            <a class="badge badge-primary" href="/categories/wikidata">wikidata</a>
+            
+            <a class="badge badge-primary" href="/categories/wikipedia">wikipedia</a>
+            
+            <a class="badge badge-primary" href="/categories/writelatex">writelatex</a>
+            
+            <a class="badge badge-primary" href="/categories/wtfgetftwt">wtfgetftwt</a>
+            
+            <a class="badge badge-primary" href="/categories/yenow">yenow</a>
+            
+        </p>
+        
+    
+        
+    
+</section>
+    
+</aside>
+
+      </div>
+    </div>
+    
+
+    
+      
+
+
+
+
+
+
+
+<footer class="blog-footer w-100">
+    <nav class="navbar navbar-light bg-light">
+        <p class="w-100 text-center">Hugo template made with ❤ by <a href="https://github.com/Xzya">Xzya</a>, inspired by <a href="https://github.com/alanorth/hugo-theme-bootstrap4-blog">hugo-theme-bootstrap4-blog</a></p>
+        <p class="w-100 text-center"><a href="#">Back to top</a></p>
+    </nav>
+</footer>
+
+    
+
+    
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  </body>
+</html>
