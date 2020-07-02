@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authoring on ScholCommsProd</title>
+    <title>authoring on ScholCommsProd</title>
     <link>http://scholarly-comms-product-blog.com/categories/authoring/</link>
-    <description>Recent content in Authoring on ScholCommsProd</description>
+    <description>Recent content in authoring on ScholCommsProd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jan 2014 00:00:00 +0000</lastBuildDate>

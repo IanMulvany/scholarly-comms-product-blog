@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Slowness on ScholCommsProd</title>
+    <title>slowness on ScholCommsProd</title>
     <link>http://scholarly-comms-product-blog.com/categories/slowness/</link>
-    <description>Recent content in Slowness on ScholCommsProd</description>
+    <description>Recent content in slowness on ScholCommsProd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Aug 2012 00:00:00 +0000</lastBuildDate>

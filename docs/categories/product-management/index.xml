@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Product Management on ScholCommsProd</title>
+    <title>product-management on ScholCommsProd</title>
     <link>http://scholarly-comms-product-blog.com/categories/product-management/</link>
-    <description>Recent content in Product Management on ScholCommsProd</description>
+    <description>Recent content in product-management on ScholCommsProd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>

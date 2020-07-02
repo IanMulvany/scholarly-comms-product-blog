@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ScholCommsProd</title>
@@ -6,10 +6,20 @@
     <description>Recent content on ScholCommsProd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://scholarly-comms-product-blog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using Datasette to publish data</title>
+      <link>http://scholarly-comms-product-blog.com/2020/07/02/using_datasette_to_publish_data/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2020/07/02/using_datasette_to_publish_data/</guid>
+      <description>In my department we have started to make a bit of space to allow fr self learning to happen. I took the time to look at datasette, an ecosystem of tools that support data publishing. These tools are from Simon Wilison, and they are fantastic.
+I&amp;rsquo;d been meaning to look at the them for some time now. I used a jupyter notebook to work my way around getting some data together, and working with the tool.</description>
+    </item>
     
     <item>
       <title>Goodbye SAGE, hello BMJ!</title>
@@ -31,15 +41,6 @@ Crucially, at SAGE we are hiring for my replacement, so if you are interested in
     </item>
     
     <item>
-      <title>STM Research data workshop.</title>
-      <link>http://scholarly-comms-product-blog.com/2019/12/06/stm_research_data_workshop._/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://scholarly-comms-product-blog.com/2019/12/06/stm_research_data_workshop._/</guid>
-      <description>The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in London, and AWS re-invent also kicks off this week. As a result, within just a few days, I find that I have more things to write about than I can ever possibly have time to get through before the end of the year, we must plough on, and plough on we will.</description>
-    </item>
-    
-    <item>
       <title>Some brief thoughts on scholarly publishing and climate change.</title>
       <link>http://scholarly-comms-product-blog.com/2019/12/06/some_brief_thoughts_on_scholarly_publishing_and_climate_change._/</link>
       <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
@@ -47,6 +48,15 @@ Crucially, at SAGE we are hiring for my replacement, so if you are interested in
       <guid>http://scholarly-comms-product-blog.com/2019/12/06/some_brief_thoughts_on_scholarly_publishing_and_climate_change._/</guid>
       <description>Who’s job is it to address the crisis of climate change? This question came up at an STM Tech Leaders workshop that I attended earlier this week? The answer is that we all are, and in that context we had a very interesting conversation on the topic.
 This is the first time that I’ve seen this topic come up in a forum like this, so a bit thank you to Dave Smith from the IET for pushing the topic forward.</description>
+    </item>
+    
+    <item>
+      <title>STM Research data workshop.</title>
+      <link>http://scholarly-comms-product-blog.com/2019/12/06/stm_research_data_workshop._/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/2019/12/06/stm_research_data_workshop._/</guid>
+      <description>The start of December is always a busy time for news in the STM / Product space. There is the annual STM meeting in London, and AWS re-invent also kicks off this week. As a result, within just a few days, I find that I have more things to write about than I can ever possibly have time to get through before the end of the year, we must plough on, and plough on we will.</description>
     </item>
     
     <item>
@@ -146,8 +156,7 @@ My takeaways from reading through them are the following:
       <guid>http://scholarly-comms-product-blog.com/2019/11/04/things_holding_back_your_analytics._/</guid>
       <description>One of my colleagues sent me over this short report “”3 Things Are Holding Back Your Analytics, and Technology Isn’t One of Them.
 They think the following elements should be considered:
- How the analysis teams are structured - they need to report in a way that is understandable (i.e. not be too separate from the business), but at the same time be independent enough to provide unbiassed views.
- You need to get the culture right, but to be honest the example given is almost information free.</description>
+  How the analysis teams are structured - they need to report in a way that is understandable (i.e. not be too separate from the business), but at the same time be independent enough to provide unbiassed views.</description>
     </item>
     
     <item>
@@ -208,10 +217,9 @@ Flavours of Agile In Flavours of Agile Pat Kua briefly describes and rates a num
       
       <guid>http://scholarly-comms-product-blog.com/2018/11/22/some_ruminations_on_software_architecture_and_diagramming/</guid>
       <description>So Pat Kua recently tweeted:
-UML failed so here we have AML (Arbitrary Modeling Language) https://t.co/BnbgC8ZHTD
-&amp;mdash; Pat Kua (@patkua) November 9, 2018&amp;lt;_a&amp;gt;&amp;lt;_blockquote&amp;gt; 
 and this got me thinking about the worries I&amp;rsquo;ve had about not doing &amp;ldquo;diagramming&amp;rdquo; right, but the above tweet led me to read a ton of really interesting posts on software architecting.
-Bottom line is, as with so many things, pick the artefact that fits the purpose and the audience.</description>
+Bottom line is, as with so many things, pick the artefact that fits the purpose and the audience.
+UML - the unified modelling language (https://en.wikipedia.org/wiki/Unified_Modeling_Language) is the de-facto standard for creating entity-relationship diagrams. The following thread talks about why it looks like this approach has &amp;ldquo;failed&amp;quot;https://dzone.</description>
     </item>
     
     <item>
@@ -347,8 +355,7 @@ Point 10 asks for all metadata to be made available including usage metadata. Ar
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://scholarly-comms-product-blog.com/2018/06/21/scholia/</guid>
-      <description>Scholia is an amazing interface into scholarly information held inside id WikiData. It includes information about authors, articles and a very large chunk of the citation graph. You can see an article pate here: https://tools.wmflabs.org/scholia/work/Q24595162. The tool extracts topic information on articles, shows cites and citing articles (and how many citations each of these articles has)
-https://tools.wmflabs.org/scholia/</description>
+      <description>Scholia is an amazing interface into scholarly information held inside id WikiData. It includes information about authors, articles and a very large chunk of the citation graph. You can see an article pate here: https://tools.wmflabs.org/scholia/work/Q24595162. The tool extracts topic information on articles, shows cites and citing articles (and how many citations each of these articles has)</description>
     </item>
     
     <item>
@@ -368,7 +375,7 @@ If we think of scholarly publishing as being like the connective tissue of scien
       
       <guid>http://scholarly-comms-product-blog.com/2018/06/07/digital_radar_-_stm_landscape/</guid>
       <description>Thoughtworks have created a tool to allow you to build your own &amp;ldquo;Digital Radar&amp;rdquo;. The one linked to here was put together a few years ago by people at the BMJ to look at the technology landscape in STM publishing (There are some really interesting things in there in some interesting locations).
-https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1zQPRcn76XHKxex7ytdmTKC9nXMPPK0Tv0-hMlSY6xVU%2Fpubhtml</description>
+&amp;lt;a href=https://radar.</description>
     </item>
     
     <item>
@@ -412,7 +419,8 @@ Heather Staines Director of Partnerships, Hypothes.is
 Peter Brantley Director of Online Strategy, UC Davis
 Elizabeth Caley Chief of Staff, Meta, Chan Zuckerberg Initiative
 Ruth Pickering Co-founder and Chief Strategy Officer, Yewno
-and myself. It was a pleasure to be on a panel with these amazing people.</description>
+and myself. It was a pleasure to be on a panel with these amazing people.
+There was a lot of interest from the audience, and we didn&amp;rsquo;t get anywhere close to talking through all of the questions that we had discussed as a panel ahead of the session, so I&amp;rsquo;m going to blog the questions that we had prepared.</description>
     </item>
     
     <item>
@@ -458,7 +466,7 @@ I got to thinking about some of the challenges and opportunities facing PLOS ove
 @CrossrefOrg helped out and pointed me to the reverse api endpoint. It workes like this:
 http://api.crossref.org/reverse
 Created a json payload file “citation.json” formatted as follows:
-[ &amp;quot;	Curtis, J. R., Wenrich, M. D., Carline, J. D., Shannon, S. E., Ambrozy, D. M., &amp;amp; Ramsey, P. G. (2001). Understanding physicians’ skills at providing end-of-life care: Perspectives of patients, families, and health care workers.</description>
+[ &amp;#34;	Curtis, J. R., Wenrich, M. D., Carline, J. D., Shannon, S. E., Ambrozy, D. M., &amp;amp; Ramsey, P. G. (2001). Understanding physicians’ skills at providing end-of-life care: Perspectives of patients, families, and health care workers.</description>
     </item>
     
     <item>
@@ -518,7 +526,7 @@ The main update is that Lens can now be configured to accept information from a 
       <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>http://scholarly-comms-product-blog.com/2014/09/21/erc-workshop-day1/</guid>
-      <description>initial thoughts about the workshop.  Opening remarks. Setting the scene. Sabrina Leonelli - the epistemology of data-intesive science. Dr Hans Pfeiffenberger - Open Science &amp;ndash; opportunities, challenges &amp;hellip; @datasciencefeed. Bernd Pulverer - finding and accessing the data behind figures. Dr Roar Skålin - Norwegian researchers want to share, but are afraid of jeopardising their career. Summary of points from the scene setting. Afternoon breakout session - Life Sciences.</description>
+      <description>initial thoughts about the workshop.  Opening remarks. Setting the scene.  Sabrina Leonelli - the epistemology of data-intesive science. [Dr Hans Pfeiffenberger - Open Science &amp;ndash; opportunities, challenges &amp;hellip; @datasciencefeed.](#dr-hans-pfeiffenberger-open-science-opportunities-challenges-datasciencefeedhttpstwittercomdatasciencefeed) Bernd Pulverer - finding and accessing the data behind figures. Dr Roar Skålin - Norwegian researchers want to share, but are afraid of jeopardising their career. Summary of points from the scene setting.   Afternoon breakout session - Life Sciences.</description>
     </item>
     
     <item>
@@ -527,7 +535,7 @@ The main update is that Lens can now be configured to accept information from a 
       <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>http://scholarly-comms-product-blog.com/2014/09/21/erc-workshop-day2/</guid>
-      <description>Life sciences breakout - key points. Physical sciences breakout - key points. Humanities breakout - key points. Open discussion on morning presentations. Breakout session on incentives.  Paul Ayris - Implementing the Future: the LERU roadmap for research data. Sünje Dallmeier‐Tiessen - Incentives for Open Science Attribution, Recognition, Collaboration. Veerle Van den Eynden and Libby Bishop - Incentives for sharing research data, evidence from an EU study. Open discussion after breakout session.</description>
+      <description>Life sciences breakout - key points. Physical sciences breakout - key points. Humanities breakout - key points. Open discussion on morning presentations. Breakout session on incentives.  [Paul Ayris - Implementing the Future: the LERU roadmap for research data.](#paul-ayris-implementing-the-future-the-leruhttpleruorg-roadmap-for-research-data) Sünje Dallmeier‐Tiessen - Incentives for Open Science Attribution, Recognition, Collaboration. Veerle Van den Eynden and Libby Bishop - Incentives for sharing research data, evidence from an EU study. Open discussion after breakout session.</description>
     </item>
     
     <item>
@@ -583,7 +591,7 @@ tl;dr:
       <guid>http://scholarly-comms-product-blog.com/2013/12/04/stm-innovations-2013/</guid>
       <description>Today I&amp;rsquo;m at the STM innovations seminar. The twitter tag for today is #ukinno. The program is online.
 I&amp;rsquo;m going to take a light approach to blogging today, I&amp;rsquo;ll probably hang out mostly on Twitter.
-## 9.35 The Research Data Revolution, Sayeed Choudhury, Associate Dean for Research Data Management, Johns Hopkins University &amp;gt; Data has become a major topic of interest from all sectors of society with headlines such as “Data is the new oil” to assertions from McKinsey that data is the fourth factor of production.</description>
+## 9.35 The Research Data Revolution, Sayeed Choudhury, Associate Dean for Research Data Management, Johns Hopkins University  Data has become a major topic of interest from all sectors of society with headlines such as “Data is the new oil” to assertions from McKinsey that data is the fourth factor of production.</description>
     </item>
     
     <item>
@@ -617,7 +625,7 @@ Howard mentions much richer tagging in the article, and upfront semantic tagging
       <guid>http://scholarly-comms-product-blog.com/2013/10/16/plos-aml-13-day1/</guid>
       <description>## Cameron Neylon - Introduction &amp;amp; Welcome
 Interesting - this is the first PLOS ALM meeting that is a &amp;ldquo;normal&amp;rdquo; scheduled presentation. Time is going to be tight.
-Pete Binfield ALM: Looking back, moving forward A large chunk of OA does not select for impact - this is why ALMs are key for this space. PLOS didn&amp;rsquo;t invent ALMs - Frontiers were doing it a little ahead of PLOS&amp;rsquo;s launch.</description>
+Pete Binfield ALM: Looking back, moving forward A large chunk of OA does not select for impact - this is why ALMs are key for this space. PLOS didn&amp;rsquo;t invent ALMs - Frontiers were doing it a little ahead of PLOS&amp;rsquo;s launch. Web of science didn&amp;rsquo;t tell PLOS until 2010 that PLOS one was being tracked for an impact factor.</description>
     </item>
     
     <item>
@@ -645,7 +653,7 @@ General comments There was not much disagreement throughout the day. There were 
       <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>http://scholarly-comms-product-blog.com/2013/07/02/ec-open-data-consultation-our-view/</guid>
-      <description>The following is the written representation that I made to the EC hearing on Open Data on behalf of Co-Action publishers, Copernicus Publications, eLife, F1000 Research, FigShare, Frontiers, Open Books Publishers, PeerJ, the Public Library of Science, Ubiquity Press and Bloomsbury Qatar Foundation Journals (QScience). I had a five minute slot to present, and the key recommendations at the end of this written response formed the basis of that presentation.</description>
+      <description>The following is the written representation that I made to the EC hearing on Open Data on behalf of Co-Action publishers, Copernicus Publications, eLife, F1000 Research, FigShare, Frontiers, Open Books Publishers, PeerJ, the Public Library of Science, Ubiquity Press and Bloomsbury Qatar Foundation Journals (QScience). I had a five minute slot to present, and the key recommendations at the end of this written response formed the basis of that presentation. I added one slide at the end with a personal view on some of the challenges of getting researchers to share data.</description>
     </item>
     
     <item>
