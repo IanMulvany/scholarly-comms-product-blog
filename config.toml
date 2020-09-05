@@ -1,7 +1,7 @@
 baseURL = "http://scholarly-comms-product-blog.com/"
 languageCode = "en-us"
 title = "ScholCommsProd"
-theme = "hugo-bootstrap"
+theme = "indigo"
 sectionPagesMenu = "main"
 publishDir = "docs"
 googleAnalytics = "UA-120951226-1"
