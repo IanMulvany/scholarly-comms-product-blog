@@ -1,0 +1,30 @@
+{{ partial "header.html" . }}
+<h2>
+  <span class="list-heading-type">{{ .Section }}:</span>
+  <span class="list-heading-tag">{{ .Title }}</span>
+</h2>
+
+<h2 class="page-title">{{ .Name }}</h2>
+<div class="tag-cloud">
+	{{ $data := .Data }}
+	{{ range $key, $value := .Data.Terms.ByCount }}
+	<a href="{{ $.Site.LanguagePrefix | absURL }}{{ $data.Plural }}/{{ $value.Name | urlize }}/">{{ $value.Name }}<sup>{{ $value.Count }}</sup></a>
+	{{ end }}
+</div>
+
+
+<div>
+  <h2 id="title">Posts by category</h2>
+
+  {{ $data := .Data }}
+  {{ range $key,$value := .Data.Terms.ByCount }}
+  <h2><a href="{{ $.Site.LanguagePrefix }}/{{ $data.Plural }}/{{ $value.Name | urlize }}">{{ $value.Name }}</a> {{ $value.Count }}</h2>
+  <ul>
+  {{ range $value.Pages.ByDate }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  {{ end }}
+  </ul>
+  {{ end }}
+</div>
+
+{{ partial "footer.html" . }}
