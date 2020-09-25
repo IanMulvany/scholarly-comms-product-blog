@@ -6,10 +6,55 @@
     <description>Recent content in Categories on ScholCommsProd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://scholarly-comms-product-blog.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>cool</title>
+      <link>http://scholarly-comms-product-blog.com/categories/cool/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/cool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>engineering</title>
+      <link>http://scholarly-comms-product-blog.com/categories/engineering/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>innovation</title>
+      <link>http://scholarly-comms-product-blog.com/categories/innovation/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/innovation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>http://scholarly-comms-product-blog.com/categories/research/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science</title>
+      <link>http://scholarly-comms-product-blog.com/categories/science/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://scholarly-comms-product-blog.com/categories/science/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>design</title>
@@ -44,15 +89,6 @@
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>http://scholarly-comms-product-blog.com/categories/coding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>research</title>
-      <link>http://scholarly-comms-product-blog.com/categories/research/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://scholarly-comms-product-blog.com/categories/research/</guid>
       <description></description>
     </item>
     
@@ -489,15 +525,6 @@
     </item>
     
     <item>
-      <title>engineering</title>
-      <link>http://scholarly-comms-product-blog.com/categories/engineering/</link>
-      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://scholarly-comms-product-blog.com/categories/engineering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>microservices</title>
       <link>http://scholarly-comms-product-blog.com/categories/microservices/</link>
       <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
@@ -732,15 +759,6 @@
     </item>
     
     <item>
-      <title>science</title>
-      <link>http://scholarly-comms-product-blog.com/categories/science/</link>
-      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://scholarly-comms-product-blog.com/categories/science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>chasm</title>
       <link>http://scholarly-comms-product-blog.com/categories/chasm/</link>
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
@@ -827,15 +845,6 @@
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://scholarly-comms-product-blog.com/categories/citation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cool</title>
-      <link>http://scholarly-comms-product-blog.com/categories/cool/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://scholarly-comms-product-blog.com/categories/cool/</guid>
       <description></description>
     </item>
     
@@ -989,15 +998,6 @@
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>http://scholarly-comms-product-blog.com/categories/futurepub10/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>innovation</title>
-      <link>http://scholarly-comms-product-blog.com/categories/innovation/</link>
-      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://scholarly-comms-product-blog.com/categories/innovation/</guid>
       <description></description>
     </item>
     
